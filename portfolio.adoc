@@ -1,0 +1,236 @@
+[[klara-laznickova]]
+= Klára Lázničková: Portfolio
+:icons:
+:imagesdir: src/img
+:toc: macro
+:toc-title:
+:toclevels: 2
+:figure-caption!:
+
+toc::[]
+
+== Curriculum vitae
+
+=== Studium
+
+* od 2015 Fakulta umění, OSU, ateliér Malba 1, Daniel Balabán
+** LS 2016/2017 stáž Fakulta výtvarných umění, VUT, ateliér Environment, Barbora Klímová
+** ZS 2016/2017 stáž Fakulta výtvarných umění, VUT, ateliér Malba 2, Luděk Rathouský
+* 2011-2015 Střední umělecko průmyslová škola a vyšší odborná umělecko průmyslová škola, Praha
+
+=== Výstavy
+
+* 2017
+** Ateliér Environment - Všem, galerie Cyril, Prostějov (kolektivní)
+* 2015
+** Záhada hlavolamu, kavárna Teplárna, Brno
+** Staroboleslavská pouť (kolektivní)
+* 2014
+** Staroboleslavská pouť (kolektivní)
+
+=== Kontakt
+
+https://laznickova-k.tumblr.com
+
+https://laznickova-klara.tumblr.com
+
+https://obraz-a-kocka.tumblr.com
+
+<<<
+
+== Portfolio
+
+=== Tygo dream
+
+Ve své práci Tygo dream jsem pracovala s pocitovou funkcí malby.
+Vytvořila jsem tři serie obrázů (Tygr, Dovolená, Bajka), rozvíjející tato témata.
+Celou práci jsem tvořila v lehce nadneseném vyznění.
+Obrazy a námět jsem postupně upravila vzhledem k zamýšlenému účelu, kterým je prevence strachu.
+Při tvorbě sem užívala klasických malířských metod, malby jsem následně instalovala do poloveřejných prostor.
+
+[[tygo-dream-bajka]]
+==== Bajka
+
+.Lev a krtek, olej na plátně, 2018.
+image::tygodream-bajka/lev-a-krtek.jpg[]
+.Bajka, olej na plátně, 2018.
+image::tygodream-bajka/bajka.jpg[,500]
+.Krtek, olej na plátně, 2018.
+image::tygodream-bajka/krtek.jpg[,500]
+.Lev, olej na plátně, 2018.
+image::tygodream-bajka/lev.jpg[]
+
+<<<
+[[tygo-dream-palma-more-slunce]]
+==== Dovolená: palma, moře, slunce
+
+.Plato, olej na plátně, 2018.
+image::tygodream-palma-more-slunce/plato.jpg[]
+.Orion, olej na plátně, 2018.
+image::tygodream-palma-more-slunce/orion.jpg[,570]
+.Jahodová, olej na plátně, 2018.
+image::tygodream-palma-more-slunce/jahodova.jpg[,570]
+.Margot, olej na plátně, 2018.
+image::tygodream-palma-more-slunce/margot.jpg[,570]
+.New Beetle, olej na plátně, 2018.
+image::tygodream-palma-more-slunce/new-beetle.jpg[,570]
+.Lev, olej na plátně, 2018.
+image::tygodream-palma-more-slunce/lev.jpg[,500]
+.Lusk, olej na plátně, 2018.
+image::tygodream-palma-more-slunce/lusk.jpg[,500]
+
+
+<<<
+[[zvrchu-tygo-dream]]
+==== Zvrchu
+
+Situace/zatiší malovaná zvrchu, věci ztrácí svou hmotu, objekty jsou obsahově vyprázdněné, stavají se pouze abstraktní kompozicí.
+
+.Předložka, olej na plátně, 2018.
+image::tygodream-zvrchu/predlozka.jpg[,500]
+.Tygr, olej na plátně, 2017.
+image::tygodream-zvrchu/tygr.jpg[,500]
+.Koně, olej na plátně, 2017.
+image::tygodream-zvrchu/kone.jpg[,400]
+.Zátiší, olej na plátně, 2017.
+image::tygodream-zvrchu/zatisi.jpg[,400]
+.Tygo dream, olej na plátně, 2017.
+image::tygodream-zvrchu/tygo-dream.jpg[,470]
+.Křeslo, olej na plátně, 2017.
+image::tygodream-zvrchu/kreslo.jpg[,470]
+
+<<<
+[[tygri-tygo-dream]]
+==== Tygři
+
+Tygr jako popkulturní lightmotiv, lehce čitelný symbol pro diváka, zejména díky častému využívání v reklamě. 
+
+.Tygr, olej na plátně, 2018.
+image::tygodream-tygri/tygr1.jpg[,470]
+.Tygr, olej na plátně, 2018.
+image::tygodream-tygri/tygr3.jpg[,470]
+.Tygr, olej na plátně, 2018.
+image::tygodream-tygri/tygr2.jpg[,700]
+.Tygr, olej na plátně, 2018.
+image::tygodream-tygri/tygr4.jpg[,400]
+.Tygonanas, olej na plátně, 2018.
+image::tygodream-tygri/tygonanas.jpg[,400]
+
+<<<
+[[archivacni-basen]]
+=== Archivační báseň
+
+<<<
+[[obraz-a-kocka]]
+=== Obraz a kočka
+
+.Obraz a kočka, text, 2016.
+image::obraz-a-kocka/text.jpg[,650]
+.Obraz a kočka: instalace, pohled do instalace, 2016.
+image::obraz-a-kocka/instalace.jpg[,500]
+.Obraz a kočka: infiltrace, pohled do instalace, 2016.
+image::obraz-a-kocka/infiltrace1.jpg[,500]
+.Obraz a kočka: infiltrace, pohled do instalace, 2016.
+image::obraz-a-kocka/infiltrace2.jpg[,500]
+.Obraz a kočka: škrabadla, pohled do instalace, 2016.
+image::obraz-a-kocka/skrabadla.jpg[]
+
+<<<
+[[zvirata]]
+=== Zvířata
+
+Snažím se o vyprázdnění motivu a vnímání subjektu v abstraktní rovině.
+Jde mi o zachycení tělesné konstituce zvířete v různých situacích, pozicích nebo fázích pohybu kdy je vnímána její hmota jako určitý abstraktní tvar.
+Ten je dále uchopován, oprošťován od zbytečných šumů a využíván ve prospěch kompozice.
+U skupiny zvířat kromě jejich samotné konstituce, sleduji jejich pohyb v prostoru zahrady a snažím se zachytit jimi utvářené kompozice.
+Rámy jsou potažené alternativním materiálem (deky, ručníky), jehož struktura může připomínat povrch zvířat (srst, pěří), ale zároveň je vybrán kvůli své hrubosti, která výškou chlupu znesnadňuje malbu v detailu a tudíž dochází ke zjednodušení motivu až k abstraktní podobě.
+
+.Kočky, olej na plátně, 2016.
+image::zvirata/kocky1.jpg[,400]
+.Kočky, olej na plátně, 2016.
+image::zvirata/kocky2.jpg[,400]
+.Kočky, olej na plátně, 2016.
+image::zvirata/kocky3.jpg[,500]
+.Kočky, olej na plátně, 2016.
+image::zvirata/kocky4.jpg[,500]
+.Kočky, olej na plátně, 2016.
+image::zvirata/kocky5.jpg[,500]
+.Kočky, olej na plátně, 2016.
+image::zvirata/kocky6.jpg[,500]
+.Kočky, olej na plátně, 2016.
+image::zvirata/kocky7.jpg[,600]
+.Kočky, olej na plátně, 2016.
+image::zvirata/kocky8.jpg[,600]
+.Kočky, olej na plátně, 2016.
+image::zvirata/kocky9.jpg[,600]
+.Kuřata, olej na plátně, 2016.
+image::zvirata/kurata.jpg[,600]
+//.Kachny, olej na plátně, 2016.
+//image::zvirata/kachny.jpg[,500]
+.Pes, olej na plátně, 2016.
+image::zvirata/pes.jpg[,600]
+.Slepice, olej na plátně, 2016.
+image::zvirata/slepice.jpg[,600]
+.Zahrada, 120x120cm, tuš a olej na plátně, 2016.
+image::zvirata/zahrada1.jpg[,450]
+.Zahrada, 120x120cm, tuš a olej na plátně, 2016.
+image::zvirata/zahrada2.jpg[,450]
+//#.Zahrada, 120x120cm, tuš a olej na plátně, 2016.
+//image::zvirata/zahrada3.jpg[,500]
+
+<<<
+[[rodina]]
+=== Rodina
+
+Důležité je hledání zajímavých momentů nebo i jen kompozic v mém bezprostředním okolí.
+Obrazy jsou oproštěné od přílišné a nepotřebné či nechtěné reality.
+Toto nepotřebné je vybíráno autoselektivně dle mého estetického cítění.
+
+.Batůžek, 105x140cm, olej na plátně, 2016.
+image::rodina/batuzek.jpg[]
+.Deathfolk, 120x120cm, olej na plátně, 2016.
+image::rodina/deathfolk.jpg[,500]
+.Obývák, 70x100cm, olej na plátně, 2016.
+image::rodina/obyvak.jpg[,500]
+//Bela, 55x60cm, olej na plátně, 2016.
+//image::rodina/bela.jpg[,500]
+.Eskimáci, 110x110cm, olej na plátně, 2016.
+image::rodina/eskimaci.jpg[,500]
+.Anežka, 80x80cm, olej na plátně, 2016.
+image::rodina/anezka.jpg[,500]
+
+<<<
+[[biotop]]
+=== Biotop
+
+Práce se týkala vztahu věcí k jejich majiteli v určitém prostředí, zajímá mě zkoumat,
+jestli je rozpoložení předmětů v místě kde se pohybujeme - žijeme nahodilé nebo uvědomělé, jestli věci okolo nás něco o někom/něčem(o jejich majiteli) vypovídájí.
+Nad věcmi přemýšlím jak nad florou/faunou, která indikuje své prostředí.
+Tento soubor maleb vnímám jako biotop (sociotop), kde si věci snažím představit jako indikátory, ukazující vlastnosti, povahové rysy, záliby, styl života obyvatelů daného místa.
+Vytvořené prostředí nemá být jedno reálné místo, obrazy představují určité segmenty různých míst která jsem považovala za klíčová pro dané osoby. 
+Přenosem myšlenky skrze mou malbu se však nejspíš tento biotop definující prarodiče stává do jisté míry spíše mým prostředím.
+
+.Biotop, rozměr variabilní, instalace, 2016.
+image::biotop/biotop-instalace.jpg[]
+.Mandril, 35x40cm, olej na plátně, 2016.
+image::biotop/mandril.jpg[]
+.Kytka, 20x20cm, olej na plátně, 2016.
+image::biotop/kytka1.jpg[,300]
+.Kytka, 20x20cm, olej na plátně, 2016.
+image::biotop/kytka2.jpg[,300]
+.Kachna, 20x20cm, olej na plátně, 2016.
+image::biotop/kachna.jpg[,300]
+//.Ptáčci, 65x120cm, olej na plátně, 2016.
+//image::biotop/ptacci.jpg[,500]
+.Kočky, 130x120cm, olej na plátně, 2016.
+image::biotop/kocky.jpg[,500]
+.Polička, 80x100cm, olej na plátně, 2016.
+image::biotop/policka1.jpg[,500]
+.Polička, 80x120cm, olej na plátně, 2016.
+image::biotop/policka2.jpg[,500]
+.Úprka, 70x70cm, olej na plátně, 2016.
+image::biotop/uprka.jpg[,500]
+.Chata, 65x75cm, olej na plátně, 2016.
+image::biotop/chata1.jpg[,500]
+.Chata, 40x50cm, olej na plátně, 2016.
+image::biotop/chata2.jpg[,500]
