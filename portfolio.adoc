@@ -40,6 +40,53 @@ https://obraz-a-kocka.tumblr.com
 
 == Portfolio
 
+
+[[vizualni-basen]]
+=== Vizuální báseň
+
+Popis díla.
+
+.Návrhová skica, digitální tisk, A3, 2019.
+image::14-vizualni-basen/skica.jpg[,650]
+.Vizuální báseň, instalace, lepený digitální tisk A4, 2019.
+image::14-vizualni-basen/sloup2.jpg[,650]
+
+
+<<<
+[[kaplicky-sv-antonin]]
+=== Pouť sv. Antonína
+
+Popis díla.
+
+.Instalace, , A4, 2019.
+image::13-kaplicky-sv-antonin/20190427_185351.jpg[,650]
+
+
+
+<<<
+[[klauzury]]
+=== Klauzury
+
+Popis díla.
+
+.Instalace, , A4, 2019.
+image::12-klauzury/20190125_192002.png[,650]
+
+
+
+<<<
+[[floatacni-tygri]]
+=== Floatační tygři
+
+Popis díla.
+
+.Instalace, , A4, 2019.
+image::11-floatacni-tygri/DSC0066-cmyk.png[,650]
+
+
+
+
+<<<
 === Tygo dream
 
 Ve své práci Tygo dream jsem pracovala s pocitovou funkcí malby.
