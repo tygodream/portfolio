@@ -8,23 +8,14 @@ font:
       bold_italic: notoserif-bold_italic-subset.ttf
     # M+ 1mn supports ASCII and the circled numbers used for conums
     M+ 1mn:
-      normal: mplus1mn-regular-ascii-conums.ttf
-      bold: mplus1mn-bold-ascii.ttf
-      italic: mplus1mn-italic-ascii.ttf
-      bold_italic: mplus1mn-bold_italic-ascii.ttf
-    # M+ 1p supports Latin, Latin-1 Supplement, Latin Extended, Greek, Cyrillic, Vietnamese, Japanese & an assortment of symbols
-    # It also provides arrows for ->, <-, => and <= replacements in case these glyphs are missing from font
-    M+ 1p Fallback:
-      normal: mplus1p-regular-fallback.ttf
-      bold: mplus1p-regular-fallback.ttf
-      italic: mplus1p-regular-fallback.ttf
-      bold_italic: mplus1p-regular-fallback.ttf
-  fallbacks:
-    - M+ 1p Fallback
+      normal: mplus1mn-regular-subset.ttf
+      bold: mplus1mn-bold-subset.ttf
+      italic: mplus1mn-italic-subset.ttf
+      bold_italic: mplus1mn-bold_italic-subset.ttf
 page:
   background_color: ffffff
-  #layout: landscape
   layout: portrait
+  initial_zoom: FitH
   margin: [0.5in, 0.67in, 0.67in, 0.67in]
   # margin_inner and margin_outer keys are used for recto/verso print margins when media=prepress
   margin_inner: 0.75in
@@ -33,8 +24,7 @@ page:
 base:
   align: justify
   # color as hex string (leading # is optional)
-  #font_color: ff3333
-  font_color: 000000
+  font_color: 333333
   # color as RGB array
   #font_color: [51, 51, 51]
   # color as CMYK array (approximated)
@@ -62,6 +52,12 @@ base:
   border_color: eeeeee
   border_radius: 4
   border_width: 0.5
+role:
+  big:
+    font_size: $base_font_size_large
+role:
+  small:
+    font_size: $base_font_size_small
 # FIXME vertical_rhythm is weird; we should think in terms of ems
 #vertical_rhythm: $base_line_height_length * 2 / 3
 # correct line height for Noto Serif metrics (comes with built-in line height)
@@ -75,14 +71,26 @@ link:
 literal:
   font_color: b12146
   font_family: M+ 1mn
-menu_caret_content: " <font size=\"1.15em\"><color rgb=\"b12146\">\u203a</color></font> "
+button:
+  content: "[\u2009%s\u2009]"
+  font_style: bold
+key:
+  background_color: f5f5f5
+  border_color: cccccc
+  border_offset: 1.5
+  border_radius: 2
+  border_width: 0.375
+  font_family: $literal_font_family
+  separator: "\u202f+\u202f"
+menu:
+  caret_content: " <font size=\"1.15em\"><color rgb=\"b12146\">\u203a</color></font> "
 heading:
   align: left
   #font_color: 181818
   font_color: $base_font_color
   font_family: $base_font_family
   font_style: bold
-  # h1 is used for part titles (book doctype only)
+  # h1 is used for part titles (book doctype) or the doctitle (article doctype)
   h1_font_size: floor($base_font_size * 2.6)
   # h2 is used for chapter titles (book doctype only)
   h2_font_size: floor($base_font_size * 2.15)
@@ -96,18 +104,18 @@ heading:
   margin_top: $vertical_rhythm * 0.4
   margin_bottom: $vertical_rhythm * 0.9
 title_page:
-  align: right
+  align: center
   logo:
     top: 10%
   title:
-    top: 35%
+    top: 25%
     font_size: $heading_h1_font_size
     font_color: 999999
     line_height: 0.9
   subtitle:
-    font_size: $heading_h3_font_size
-    font_style: bold_italic
-    line_height: 1
+    font_size: $heading_h1_font_size
+    font_style: bold
+    line_height: 5
   authors:
     margin_top: $base_font_size * 1.25
     font_size: $base_font_size_large
@@ -146,7 +154,7 @@ admonition:
   padding: [0, $horizontal_rhythm, 0, $horizontal_rhythm]
   #icon:
   #  tip:
-  #    name: fa-lightbulb-o
+  #    name: far-lightbulb
   #    stroke_color: 111111
   #    size: 24
   label:
@@ -175,10 +183,11 @@ code:
   border_radius: $base_border_radius
   border_width: 0.75
 conum:
-  font_family: M+ 1mn
+  font_family: $literal_font_family
   font_color: $literal_font_color
   font_size: $base_font_size
   line_height: 4 / 3
+  glyphs: circled
 example:
   border_color: $base_border_color
   border_radius: $base_border_radius
@@ -221,23 +230,30 @@ outline_list:
   item_spacing: $vertical_rhythm / 2
 table:
   background_color: $page_background_color
-  #head_background_color: <hex value>
-  #head_font_color: $base_font_color
-  head_font_style: bold
-  #body_background_color: <hex value>
-  body_stripe_background_color: f9f9f9
-  foot_background_color: f0f0f0
   border_color: dddddd
   border_width: $base_border_width
   cell_padding: 3
+  head:
+    font_style: bold
+    border_bottom_width: $base_border_width * 2.5
+  body:
+    stripe_background_color: f9f9f9
+  foot:
+    background_color: f0f0f0
 toc:
   indent: $horizontal_rhythm
   line_height: 1.4
   dot_leader:
-    content: " . "
+    #content: ". "
     font_color: a9a9a9
     #levels: 2 3
-# NOTE in addition to footer, header is also supported
+footnotes:
+  font_size: round($base_font_size * 0.75)
+  item_spacing: $outline_list_item_spacing / 2
+header:
+  font_size: $base_font_size_small
+  line_height: 1
+  vertical_align: middle
 footer:
   font_size: $base_font_size_small
   # NOTE if background_color is set, background and border will span width of page
@@ -247,28 +263,11 @@ footer:
   line_height: 1
   padding: [$base_line_height_length / 2, 1, 0, 1]
   vertical_align: top
-  #image_vertical_align: <alignment> or <number>
-  # additional attributes for content:
-  # * {page-count}
-  # * {page-number}
-  # * {document-title}
-  # * {document-subtitle}
-  # * {chapter-title}
-  # * {section-title}
-  # * {section-or-chapter-title}
   recto:
     #columns: "<50% =0% >50%"
-    left:
-      content: '{section-title}'
     right:
-      content: '{document-subtitle}'
-    #center:
-    #  content: '{page-number}'
+      content: 'Klára Lázničková | Portfolio'
   verso:
     #columns: $footer_recto_columns
     left:
-      content: '{section-title}'
-    right:
-      content: '{document-subtitle}'
-    #center:
-    #  content: '{page-number}'
+      content: 'Portfolio | Klára Lázničková'
