@@ -93,7 +93,7 @@ plochy a tahy štetcem, tak by měl divák klidně obraz vnímat jen v abstraktn
 floatovat svoji mysl ve stavu bez tíže všední reality.
 
 .Floatační tygři, olej na plátně , 2018.
-image::11-floatacni-tygri/DSC0066-cmyk.png[,650]
+image::11-floatacni-tygri/floa0.png[,650]
 .Instalace - Comfort balcony, 2019.
 image::11-floatacni-tygri/floa1-1.png[,650]
 .Instalace - Comfort balcony, 2019.
@@ -130,8 +130,7 @@ image::10-tygodream/klara008.jpg[]
 image::10-tygodream/klara014.jpg[]
 .Tygodream, instalace, 2018.
 image::10-tygodream/klara019.jpg[]
-.Tygodream, instalace, 2018.
-image::10-tygodream/klara001.jpg[]
+
 
 [[tygo-dream-bajka]]
 ==== Bajka
@@ -141,15 +140,15 @@ image::9-tygodream-bajka/lev-a-krtek.jpg[]
 .Bajka, olej na plátně, 2018.
 image::9-tygodream-bajka/bajka-cmyk.png[,500]
 .Krtek, olej na plátně, 2018.
-image::9-tygodream-bajka/krtek-cmyk.png[,500]
+image::9-tygodream-bajka/krtek-cmyk.png[]
 .Lev, olej na plátně, 2018.
-image::9-tygodream-bajka/kožka.png[]
+image::9-tygodream-bajka/kožka.png[450]
 .Lev, olej na plátně, 2018.
-image::9-tygodream-bajka/l.jpg[]
+image::9-tygodream-bajka/l.jpg[450]
 .Lev, olej na plátně, 2018.
-image::9-tygodream-bajka/e.jpg[]
+image::9-tygodream-bajka/e.jpg[450]
 .Lev, olej na plátně, 2018.
-image::9-tygodream-bajka/v.jpg[]
+image::9-tygodream-bajka/v.jpg[450]
 
 <<<
 [[tygo-dream-palma-more-slunce]]
@@ -178,9 +177,9 @@ image::8-tygodream-palma-more-slunce/cmyk-lusk.png[,500]
 Situace/zatiší malovaná zvrchu, věci ztrácí svou hmotu, objekty jsou obsahově vyprázdněné, stavají se pouze abstraktní kompozicí.
 
 .Předložka, olej na plátně, 2018.
-image::7-tygodream-zvrchu/klara-cmyk.png[,500]
+image::7-tygodream-zvrchu/klara-cmyk.png[]
 .Tygr, olej na plátně, 2017.
-image::7-tygodream-zvrchu/tygr-cmyk.png[,500]
+image::7-tygodream-zvrchu/tygr-cmyk.png[]
 .Koně, olej na plátně, 2017.
 image::7-tygodream-zvrchu/kone.jpg[,400]
 .Zátiší, olej na plátně, 2017.
@@ -203,7 +202,7 @@ image::6-tygodream-tygri/tygr3.jpg[,470]
 .Tygr, olej na plátně, 2018.
 image::6-tygodream-tygri/tygo25.jpg[,400]
 .Tygr, olej na plátně, 2018.
-image::6-tygodream-tygri/tygr2t.jpg[,400]
+image::6-tygodream-tygri/tygr2t.png[,400]
 .Tygr, olej na plátně, 2018.
 image::6-tygodream-tygri/tygr4vic.png[,400]
 .Tygonanas, olej na plátně, 2018.
@@ -214,9 +213,9 @@ image::6-tygodream-tygri/tygonanassvet.png[,400]
 === Archivační báseň
 
 .Archivační báseň, tisk, 2017.
-image::5-archivacni-basen/letak.png[,600]
-image::5-archivacni-basen/arb.png[,650]
-image::5-archivacni-basen/arb2.png[,650]
+image::5-archivacni-basen/letak.png[,500]
+image::5-archivacni-basen/arb.png[,500]
+image::5-archivacni-basen/arb2.png[,500]
 
 
 
@@ -246,17 +245,13 @@ U skupiny zvířat kromě jejich samotné konstituce, sleduji jejich pohyb v pro
 Rámy jsou potažené alternativním materiálem (deky, ručníky), jehož struktura může připomínat povrch zvířat (srst, pěří), ale zároveň je vybrán kvůli své hrubosti, která výškou chlupu znesnadňuje malbu v detailu a tudíž dochází ke zjednodušení motivu až k abstraktní podobě.
 
 .Kočky, olej na plátně, 2016.
-image::3-zvirata/kocky7.jpg[,600]
+image::3-zvirata/kocky7-cmyk.png[,600]
 .Kočky, olej na plátně, 2016.
 image::3-zvirata/kocky4.jpg[,500]
 .Kočky, olej na plátně, 2016.
 image::3-zvirata/kocky5.jpg[,500]
-.Kočky, olej na plátně, 2016
-image::3-zvirata/kocky1.jpg[,500]
-.Kočky, olej na plátně, 2016
-image::3-zvirata/kocky3.jpg[,500]
 .Kočky, olej na plátně, 2016.
-image::3-zvirata/kocky8.jpg[,600]
+image::3-zvirata/kocky8-cmyk.png[,600]
 .Kočky, olej na plátně, 2016.
 image::3-zvirata/kocky9.jpg[,600]
 .Kuřata, olej na plátně, 2016.
@@ -267,10 +262,6 @@ image::3-zvirata/kurata.jpg[,600]
 image::3-zvirata/pes.jpg[,600]
 .Slepice, olej na plátně, 2016.
 image::3-zvirata/slepice.jpg[,600]
-.Zahrada, 120x120cm, tuš a olej na plátně, 2016.
-image::3-zvirata/zahrada1.jpg[,450]
-.Zahrada, 120x120cm, tuš a olej na plátně, 2016.
-image::3-zvirata/zahrada2.jpg[,450]
 //#.Zahrada, 120x120cm, tuš a olej na plátně, 2016.
 //image::zvirata/zahrada3.jpg[,500]
 
@@ -282,20 +273,18 @@ Důležité je hledání zajímavých momentů nebo i jen kompozic v mém bezpro
 Obrazy jsou oproštěné od přílišné a nepotřebné či nechtěné reality.
 Toto nepotřebné je vybíráno autoselektivně dle mého estetického cítění.
 
-.Batůžek, 105x140cm, olej na plátně, 2016.
-image::2-rodina/batuzek.jpg[]
-.Eskimáci, 110x110cm, olej na plátně, 2016.
-image::2-rodina/eskimaci.jpg[,500]
 .Deathfolk, 120x120cm, olej na plátně, 2016.
-image::2-rodina/deathfolk.jpg[,500]
-.Obývák, 70x100cm, olej na plátně, 2016.
-image::2-rodina/obyvak.jpg[,500]
+image::2-rodina/deathfolk-cmyk.png[]
+.Batůžek, 105x140cm, olej na plátně, 2016.
+image::2-rodina/batuzek-cmyk.png[400]
+.Eskimáci, 110x110cm, olej na plátně, 2016.
+image::2-rodina/eskimaci-cmyk.png[,400]
 //Bela, 55x60cm, olej na plátně, 2016.
 //image::rodina/bela.jpg[,500]
 .Anežka, 80x80cm, olej na plátně, 2016.
-image::2-rodina/anezka.jpg[,500]
+image::2-rodina/anezka-cmyk.png[,400]
 .Bella, 80x80cm, olej na plátně, 2016.
-image::2-rodina/bella.jpg[,500]
+image::2-rodina/bella-orez.png[,400]
 
 <<<
 [[biotop]]
@@ -311,7 +300,9 @@ Přenosem myšlenky skrze mou malbu se však nejspíš tento biotop definující
 .Biotop, rozměr variabilní, instalace, 2016.
 image::1-biotop/biotop-instalace.jpg[]
 .Mandril, 35x40cm, olej na plátně, 2016.
-image::1-biotop/mandril.jpg[]
+image::1-biotop/mandril.jpg[500]
+.Chata, 65x75cm, olej na plátně, 2016.
+image::1-biotop/chata1.jpg[,500]
 .Kytka, 20x20cm, olej na plátně, 2016.
 image::1-biotop/kytka1.jpg[,300]
 .Kytka, 20x20cm, olej na plátně, 2016.
@@ -328,6 +319,5 @@ image::1-biotop/policka1.jpg[,500]
 image::1-biotop/policka2.jpg[,500]
 .Úprka, 70x70cm, olej na plátně, 2016.
 image::1-biotop/uprka.jpg[,500]
-.Chata, 65x75cm, olej na plátně, 2016.
-image::1-biotop/chata1.jpg[,500]
+
 
