@@ -92,7 +92,7 @@ plochy a tahy štetcem, tak by měl divák klidně obraz vnímat jen v abstraktn
 floatovat svoji mysl ve stavu bez tíže všední reality.
 
 .Floatační tygři, olej na plátně , 2018.
-image::11-floatacni-tygri/floa0.png[,650]
+image::11-floatacni-tygri/floa0-1.png[,650]
 .Instalace - Comfort balcony, 2019.
 image::11-floatacni-tygri/floa1-1.png[,650]
 .Instalace - Comfort balcony, 2019.
@@ -121,13 +121,11 @@ image::10-tygodream/klara016.JPG[]
 .Tygodream, instalace, 2018.
 image::10-tygodream/klara020.JPG[]
 .Tygodream, instalace, 2018.
-image::10-tygodream/klara008.JPG[]
+image::10-tygodream/klara019.JPG[]
 .Tygodream, instalace, 2018.
 image::10-tygodream/klara014.JPG[]
-.Tygodream, instalace, 2018.
-image::10-tygodream/klara019.JPG[]
 
-
+<<<
 [[tygo-dream-bajka]]
 ==== Bajka
 
