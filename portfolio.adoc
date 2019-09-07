@@ -63,7 +63,6 @@ Popis díla.
 image::13-kaplicky-sv-antonin/20190427_185351.jpg[,650]
 
 
-
 <<<
 [[klauzury]]
 === Klauzury
@@ -97,12 +96,9 @@ image::11-floatacni-tygri/floa0.png[,650]
 .Instalace - Comfort balcony, 2019.
 image::11-floatacni-tygri/floa1-1.png[,650]
 .Instalace - Comfort balcony, 2019.
-image::11-floatacni-tygri/floa2.png[,650]
-.Instalace - Comfort balcony, 2019.
 image::11-floatacni-tygri/floa3.png[,650]
-
-
-
+.Instalace - Comfort balcony, 2019.
+image::11-floatacni-tygri/floa2.png[,650]
 
 
 <<<
@@ -115,21 +111,21 @@ Obrazy a námět jsem postupně upravila vzhledem k zamýšlenému účelu, kter
 Při tvorbě sem užívala klasických malířských metod, malby jsem následně instalovala do poloveřejných prostor.
 
 .Tygodream, instalace, 2018.
-image::10-tygodream/klara001.jpg[]
+image::10-tygodream/klara001.JPG[]
 .Tygodream, instalace, 2018.
-image::10-tygodream/klara004.jpg[]
+image::10-tygodream/klara004.JPG[]
 .Tygodream, instalace, 2018.
-image::10-tygodream/klara005.jpg[]
+image::10-tygodream/klara005.JPG[]
 .Tygodream, instalace, 2018.
-image::10-tygodream/klara016.jpg[]
+image::10-tygodream/klara016.JPG[]
 .Tygodream, instalace, 2018.
-image::10-tygodream/klara020.jpg[]
+image::10-tygodream/klara020.JPG[]
 .Tygodream, instalace, 2018.
-image::10-tygodream/klara008.jpg[]
+image::10-tygodream/klara008.JPG[]
 .Tygodream, instalace, 2018.
-image::10-tygodream/klara014.jpg[]
+image::10-tygodream/klara014.JPG[]
 .Tygodream, instalace, 2018.
-image::10-tygodream/klara019.jpg[]
+image::10-tygodream/klara019.JPG[]
 
 
 [[tygo-dream-bajka]]
@@ -216,8 +212,6 @@ image::6-tygodream-tygri/tygonanassvet.png[,400]
 image::5-archivacni-basen/letak.png[,500]
 image::5-archivacni-basen/arb.png[,500]
 image::5-archivacni-basen/arb2.png[,500]
-
-
 
 <<<
 [[obraz-a-kocka]]
