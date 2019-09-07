@@ -69,8 +69,8 @@ image::13-kaplicky-sv-antonin/20190427_185351.jpg[,650]
 
 Popis díla.
 
-.Instalace, , A4, 2019.
-image::12-klauzury/20190125_192002.png[,650]
+.klauzury, olej na plátně, 2019.
+image::12-klauzury/papuče.png[,650]
 
 
 
@@ -78,10 +78,28 @@ image::12-klauzury/20190125_192002.png[,650]
 [[floatacni-tygri]]
 === Floatační tygři
 
-Popis díla.
+Milý Ježíšku, přála bych si pod stromeček mobil s hadem, pastelky hlavně růžový, nafukovací hrad,
+kolo a tygra, nebo toho slona co umí lítat ušima. A ten tygr, aby byl hodnej, aby nám nešežral Žeryka,
+díky Klárka Lázničková.
 
-.Instalace, , A4, 2019.
+Chtít tygra, není to tak trochu útěk z uspěchaného prekarizovaného světa dospělých zpět do klidu
+dětství? Tato serie obrazů je inspirovaná kauzou tygřího masoxu a chovu kočkovitých šelem
+soukromníky v České republice. V dané instalaci obrazů jde však především o malbu a její vnímání.
+Koncepce podporující uvolnění se ve výstavním prostředí, nabádá diváka strávit v expozici delší
+dobu, jež umožní plné soustředění se pouze na vizuální pole viděné před sebou. Obraz nemá být
+jen indexem daného námětu zhotoveným štětcem a barvou. Stejně jak na obrazech floatují barevné
+plochy a tahy štetcem, tak by měl divák klidně obraz vnímat jen v abstraktní rovině a nechat
+floatovat svoji mysl ve stavu bez tíže všední reality.
+
+.Floatační tygři, olej na plátně , 2018.
 image::11-floatacni-tygri/DSC0066-cmyk.png[,650]
+.Instalace - Comfort balcony, 2019.
+image::11-floatacni-tygri/floa1-1.png[,650]
+.Instalace - Comfort balcony, 2019.
+image::11-floatacni-tygri/floa2.png[,650]
+.Instalace - Comfort balcony, 2019.
+image::11-floatacni-tygri/floa3.png[,650]
+
 
 
 
@@ -95,36 +113,61 @@ Celou práci jsem tvořila v lehce nadneseném vyznění.
 Obrazy a námět jsem postupně upravila vzhledem k zamýšlenému účelu, kterým je prevence strachu.
 Při tvorbě sem užívala klasických malířských metod, malby jsem následně instalovala do poloveřejných prostor.
 
+.Tygodream, instalace, 2018.
+image::10-tygodream/klara001.jpg[]
+.Tygodream, instalace, 2018.
+image::10-tygodream/klara004.jpg[]
+.Tygodream, instalace, 2018.
+image::10-tygodream/klara005.jpg[]
+.Tygodream, instalace, 2018.
+image::10-tygodream/klara016.jpg[]
+.Tygodream, instalace, 2018.
+image::10-tygodream/klara020.jpg[]
+.Tygodream, instalace, 2018.
+image::10-tygodream/klara008.jpg[]
+.Tygodream, instalace, 2018.
+image::10-tygodream/klara014.jpg[]
+.Tygodream, instalace, 2018.
+image::10-tygodream/klara019.jpg[]
+.Tygodream, instalace, 2018.
+image::10-tygodream/klara001.jpg[]
+
 [[tygo-dream-bajka]]
 ==== Bajka
 
 .Lev a krtek, olej na plátně, 2018.
 image::9-tygodream-bajka/lev-a-krtek.jpg[]
 .Bajka, olej na plátně, 2018.
-image::9-tygodream-bajka/bajka.jpg[,500]
+image::9-tygodream-bajka/bajka-cmyk.png[,500]
 .Krtek, olej na plátně, 2018.
-image::9-tygodream-bajka/krtek.jpg[,500]
+image::9-tygodream-bajka/krtek-cmyk.png[,500]
 .Lev, olej na plátně, 2018.
-image::9-tygodream-bajka/lev.jpg[]
+image::9-tygodream-bajka/kožka.png[]
+.Lev, olej na plátně, 2018.
+image::9-tygodream-bajka/l.jpg[]
+.Lev, olej na plátně, 2018.
+image::9-tygodream-bajka/e.jpg[]
+.Lev, olej na plátně, 2018.
+image::9-tygodream-bajka/v.jpg[]
 
 <<<
 [[tygo-dream-palma-more-slunce]]
 ==== Dovolená: palma, moře, slunce
 
 .Plato, olej na plátně, 2018.
-image::8-tygodream-palma-more-slunce/plato.jpg[]
+image::8-tygodream-palma-more-slunce/plato-cmyk.png[]
 .Orion, olej na plátně, 2018.
-image::8-tygodream-palma-more-slunce/orion.jpg[,570]
+image::8-tygodream-palma-more-slunce/orion-cmyk.png[,570]
 .Jahodová, olej na plátně, 2018.
-image::8-tygodream-palma-more-slunce/jahodova.jpg[,570]
+image::8-tygodream-palma-more-slunce/jahodova-cmyk.png[,570]
 .Margot, olej na plátně, 2018.
-image::8-tygodream-palma-more-slunce/margot.jpg[,570]
+image::8-tygodream-palma-more-slunce/margot-cmyk.png[,570]
 .New Beetle, olej na plátně, 2018.
-image::8-tygodream-palma-more-slunce/new-beetle.jpg[,570]
+image::8-tygodream-palma-more-slunce/new-beetle-cmyk.png[,570]
 .Lev, olej na plátně, 2018.
-image::8-tygodream-palma-more-slunce/lev.jpg[,500]
+image::8-tygodream-palma-more-slunce/lev-cmyk.png[,500]
 .Lusk, olej na plátně, 2018.
-image::8-tygodream-palma-more-slunce/lusk.jpg[,500]
+image::8-tygodream-palma-more-slunce/cmyk-lusk.png[,500]
 
 
 <<<
@@ -134,15 +177,15 @@ image::8-tygodream-palma-more-slunce/lusk.jpg[,500]
 Situace/zatiší malovaná zvrchu, věci ztrácí svou hmotu, objekty jsou obsahově vyprázdněné, stavají se pouze abstraktní kompozicí.
 
 .Předložka, olej na plátně, 2018.
-image::7-tygodream-zvrchu/predlozka.jpg[,500]
+image::7-tygodream-zvrchu/klara-cmyk.png[,500]
 .Tygr, olej na plátně, 2017.
-image::7-tygodream-zvrchu/tygr.jpg[,500]
+image::7-tygodream-zvrchu/tygr-cmyk.png[,500]
 .Koně, olej na plátně, 2017.
 image::7-tygodream-zvrchu/kone.jpg[,400]
 .Zátiší, olej na plátně, 2017.
-image::7-tygodream-zvrchu/zatisi.jpg[,400]
+image::7-tygodream-zvrchu/zatisi-sv.png[,400]
 .Tygo dream, olej na plátně, 2017.
-image::7-tygodream-zvrchu/tygo-dream.jpg[,470]
+image::7-tygodream-zvrchu/tygo-dream-cmyk.png[,470]
 .Křeslo, olej na plátně, 2017.
 image::7-tygodream-zvrchu/kreslo.jpg[,470]
 
@@ -153,19 +196,28 @@ image::7-tygodream-zvrchu/kreslo.jpg[,470]
 Tygr jako popkulturní lightmotiv, lehce čitelný symbol pro diváka, zejména díky častému využívání v reklamě. 
 
 .Tygr, olej na plátně, 2018.
-image::6-tygodream-tygri/tygr1.jpg[,470]
+image::6-tygodream-tygri/tygr1-sv.png[,470]
 .Tygr, olej na plátně, 2018.
 image::6-tygodream-tygri/tygr3.jpg[,470]
 .Tygr, olej na plátně, 2018.
-image::6-tygodream-tygri/tygr2.jpg[,700]
+image::6-tygodream-tygri/tygo25.jpg[,400]
 .Tygr, olej na plátně, 2018.
-image::6-tygodream-tygri/tygr4.jpg[,400]
+image::6-tygodream-tygri/tygr2t.jpg[,400]
+.Tygr, olej na plátně, 2018.
+image::6-tygodream-tygri/tygr4vic.png[,400]
 .Tygonanas, olej na plátně, 2018.
-image::6-tygodream-tygri/tygonanas.jpg[,400]
+image::6-tygodream-tygri/tygonanassvet.png[,400]
 
 <<<
 [[archivacni-basen]]
 === Archivační báseň
+
+.Archivační báseň, tisk, 2017.
+image::5-archivacni-basen/letak.png[,600]
+image::5-archivacni-basen/arb.png[,650]
+image::5-archivacni-basen/arb2.png[,650]
+
+
 
 <<<
 [[obraz-a-kocka]]
@@ -193,19 +245,15 @@ U skupiny zvířat kromě jejich samotné konstituce, sleduji jejich pohyb v pro
 Rámy jsou potažené alternativním materiálem (deky, ručníky), jehož struktura může připomínat povrch zvířat (srst, pěří), ale zároveň je vybrán kvůli své hrubosti, která výškou chlupu znesnadňuje malbu v detailu a tudíž dochází ke zjednodušení motivu až k abstraktní podobě.
 
 .Kočky, olej na plátně, 2016.
-image::3-zvirata/kocky1.jpg[,400]
-.Kočky, olej na plátně, 2016.
-image::3-zvirata/kocky2.jpg[,400]
-.Kočky, olej na plátně, 2016.
-image::3-zvirata/kocky3.jpg[,500]
+image::3-zvirata/kocky7.jpg[,600]
 .Kočky, olej na plátně, 2016.
 image::3-zvirata/kocky4.jpg[,500]
 .Kočky, olej na plátně, 2016.
 image::3-zvirata/kocky5.jpg[,500]
-.Kočky, olej na plátně, 2016.
-image::3-zvirata/kocky6.jpg[,500]
-.Kočky, olej na plátně, 2016.
-image::3-zvirata/kocky7.jpg[,600]
+.Kočky, olej na plátně, 2016
+image::3-zvirata/kocky1.jpg[,500]
+.Kočky, olej na plátně, 2016
+image::3-zvirata/kocky3.jpg[,500]
 .Kočky, olej na plátně, 2016.
 image::3-zvirata/kocky8.jpg[,600]
 .Kočky, olej na plátně, 2016.
@@ -235,16 +283,18 @@ Toto nepotřebné je vybíráno autoselektivně dle mého estetického cítění
 
 .Batůžek, 105x140cm, olej na plátně, 2016.
 image::2-rodina/batuzek.jpg[]
+.Eskimáci, 110x110cm, olej na plátně, 2016.
+image::2-rodina/eskimaci.jpg[,500]
 .Deathfolk, 120x120cm, olej na plátně, 2016.
 image::2-rodina/deathfolk.jpg[,500]
 .Obývák, 70x100cm, olej na plátně, 2016.
 image::2-rodina/obyvak.jpg[,500]
 //Bela, 55x60cm, olej na plátně, 2016.
 //image::rodina/bela.jpg[,500]
-.Eskimáci, 110x110cm, olej na plátně, 2016.
-image::2-rodina/eskimaci.jpg[,500]
 .Anežka, 80x80cm, olej na plátně, 2016.
 image::2-rodina/anezka.jpg[,500]
+.Bella, 80x80cm, olej na plátně, 2016.
+image::2-rodina/bella.jpg[,500]
 
 <<<
 [[biotop]]
@@ -279,5 +329,4 @@ image::1-biotop/policka2.jpg[,500]
 image::1-biotop/uprka.jpg[,500]
 .Chata, 65x75cm, olej na plátně, 2016.
 image::1-biotop/chata1.jpg[,500]
-.Chata, 40x50cm, olej na plátně, 2016.
-image::1-biotop/chata2.jpg[,500]
+
