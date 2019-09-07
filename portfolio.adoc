@@ -1,13 +1,14 @@
-[[klara-laznickova]]
-= Klára Lázničková: Portfolio
+:title-page: 
 :icons:
 :imagesdir: img
 :toc: macro
-:toc-title:
+:toc-title: Contents
 :toclevels: 2
 :figure-caption!:
 
-toc::[]
+
+[[klara-laznickova]]
+= Klára Lázničková: Portfolio
 
 == Curriculum vitae
 

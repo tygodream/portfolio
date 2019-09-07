@@ -1,1 +1,3 @@
 asciidoctor-pdf portfolio.adoc -a pdf-stylesdir=template
+
+asciidoctor-pdf portfolio.adoc -a pdf-style=template/default-theme.yml
