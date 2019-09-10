@@ -67,7 +67,7 @@ image::14-vizualni-basen/sloup2.jpg[,650]
 [[kaplicky-sv-antonin]]
 === Pouť sv. Antonína
 
- 15. Staroboleslavská pouť na téma pokušení svatého Antonína - Ježíšovy ryby a Zázrak v Rimini.
+ Patnáctá Staroboleslavská pouť na téma pokušení svatého Antonína - Ježíšovy ryby a Zázrak v Rimini.
 
 .Akvárium sv.Antonína, akvarel na papíře, 2019.
 image::13-kaplicky-sv-antonin/20190427_185351.jpg[,650]
@@ -122,7 +122,7 @@ image::11-floatacni-tygri/floa2.png[,650]
 <<<
 === Tygo dream
 
-Ve své bakalářské práci Tygo dream jsem pracovala s pocitovou funkcí malby. Svými myšlenkami jsem se často ztotožnovala s teoriemi moderních malířů. Vytvořila jsem tři serie obrázů (Tygr, Dovolená, Bajka), rozvíjející tato témata. Celou práci jsem tvořila v lehce nadneseném vyznění. Obrazy a námět jsem postupně upravila vzhledem k zamýšlenému účelu, kterým byla prevence strachu a chmuru. Při tvorbě sem užívala klasických malířských metod, malby jsem následně instalovala do poloveřejných prostor, kde jsem je bez přílišných autorských ambicí nechala plnit jejich běžné, univerzálně kontemplativní, meditativní, estetizující, či až dekorativní poslání. Měla jsem potřebu zdůraznit prostou, bazální, ale podle mě zásadní, podobu existence malby jako všední lenošky pro duši každého člověka.
+Ve své bakalářské práci Tygo dream jsem pracovala s pocitovou funkcí malby. Svými myšlenkami jsem se často ztotožnovala s teoriemi moderních malířů. Vytvořila jsem tři serie obrázů (Tygr, Dovolená, Bajka), rozvíjející tato témata. Celou práci jsem tvořila v lehce nadneseném vyznění. Obrazy a námět jsem postupně upravila vzhledem k zamýšlenému účelu, kterým byla prevence chmuru a strachu. Při tvorbě sem užívala klasických malířských metod, malby jsem následně instalovala do poloveřejných prostor, kde jsem je bez přílišných autorských ambicí nechala plnit jejich běžné, univerzálně kontemplativní, meditativní, estetizující, či až dekorativní poslání. Měla jsem potřebu zdůraznit prostou, bazální, ale podle mě zásadní, podobu existence malby jako všední lenošky pro duši každého člověka.
 
 
 .Tygodream, instalace - FER@NET net kafé, 2018.
@@ -147,25 +147,25 @@ image::10-tygodream/bajka011.jpg[]
 .Lev a krtek, olej na plátně, 2018.
 image::9-tygodream-bajka/lev-a-krtek.jpg[]
 .Bajka, olej na plátně, 2018.
-image::9-tygodream-bajka/bajka-cmyk.png[,500]
+image::9-tygodream-bajka/kožka.png[,400]
+.Lev, olej na plátně, 2018.
+image::9-tygodream-bajka/krtek-cmyk.png[,400]
+.Lev, olej na plátně, 2018.
+image::9-tygodream-bajka/bajka4.png[,500]
 .Krtek, olej na plátně, 2018.
-image::9-tygodream-bajka/krtek-cmyk.png[500]
+image::9-tygodream-bajka/bajka001.jpg[,500]
 .Lev, olej na plátně, 2018.
-image::9-tygodream-bajka/kožka.png[500]
+image::9-tygodream-bajka/bajka002.jpg[,500]
 .Lev, olej na plátně, 2018.
-image::9-tygodream-bajka/bajka001.jpg[500]
+image::9-tygodream-bajka/lev1.jpg[,500]
 .Lev, olej na plátně, 2018.
-image::9-tygodream-bajka/bajka002.jpg[500]
-.Lev, olej na plátně, 2018.
-image::9-tygodream-bajka/lev1.jpg[500]
-.Lev, olej na plátně, 2018.
-image::9-tygodream-bajka/lev2.jpg[500]
+image::9-tygodream-bajka/lev2.jpg[,500]
 .Vesmírný lev, olej na plátně, 2018.
-image::9-tygodream-bajka/vesmirnylev.jpg[500]
+image::9-tygodream-bajka/vesmirnylev.jpg[,500]
 .Krokodýl, olej na plátně, 2018.
-image::9-tygodream-bajka/bajka008.jpg[500]
+image::9-tygodream-bajka/bajka008.jpg[,500]
 .Kotě, olej na plátně, 2018.
-image::9-tygodream-bajka/bajka009.jpg[500]
+image::9-tygodream-bajka/bajka009.jpg[,500]
 
 
 <<<
