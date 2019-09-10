@@ -68,7 +68,7 @@ image::14-vizualni-basen/sloup2.jpg[,650]
 [[kaplicky-sv-antonin]]
 === Pouť sv. Antonína
 
- Patnáctá Staroboleslavská pouť na téma pokušení svatého Antonína - Ježíšovy ryby a Zázrak v Rimini.
+Patnáctá Staroboleslavská pouť na téma pokušení svatého Antonína - Ježíšovy ryby a Zázrak v Rimini.
 
 .Akvárium sv.Antonína, akvarel na papíře, 2019.
 image::13-kaplicky-sv-antonin/20190427_185351.jpg[,650]
@@ -153,15 +153,13 @@ image::9-tygodream-bajka/lev-a-krtek.jpg[,600]
 .Bajka, olej na plátně, 2018.
 image::9-tygodream-bajka/bajka-cmyk.png[,600]
 .Krtek, olej na plátně, 2018.
-image::9-tygodream-bajka/krtek-cmyk.png[,500]
+image::9-tygodream-bajka/krtek-cmyk.png[,650]
 .Lev, olej na plátně, 2018.
-image::9-tygodream-bajka/kožka.png[,500]
+image::9-tygodream-bajka/kožka.png[,550]
 .Lev, olej na plátně, 2018.
-image::9-tygodream-bajka/bajka001.jpg[,500]
+image::9-tygodream-bajka/bajka001.jpg[,550]
 .Lev, olej na plátně, 2018.
-image::9-tygodream-bajka/bajka002.jpg[,500]
-.Lev, olej na plátně, 2018.
-image::9-tygodream-bajka/lev1.jpg[,500]
+image::9-tygodream-bajka/lev1.jpg[,650]
 .Lev, olej na plátně, 2018.
 image::9-tygodream-bajka/lev2.jpg[,500]
 .Vesmírný lev, olej na plátně, 2018.
@@ -297,9 +295,9 @@ Toto nepotřebné je vybíráno autoselektivně dle mého estetického cítění
 .Deathfolk, 120x120cm, olej na plátně, 2016.
 image::2-rodina/deathfolk-cmyk.png[]
 .Batůžek, 105x140cm, olej na plátně, 2016.
-image::2-rodina/batuzek-cmyk.png[,500]
+image::2-rodina/batuzek-cmyk.png[,600]
 .Eskimáci, 110x110cm, olej na plátně, 2016.
-image::2-rodina/eskimaci.png[,500]
+image::2-rodina/eskimaci.png[,600]
 .Anežka, 80x80cm, olej na plátně, 2016.
 image::2-rodina/anezka-cmyk.png[,450]
 .Bella, 80x80cm, olej na plátně, 2016.

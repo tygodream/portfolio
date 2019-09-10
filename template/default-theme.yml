@@ -265,9 +265,13 @@ footer:
   vertical_align: top
   recto:
     #columns: "<50% =0% >50%"
+    left:
+      content: 'Portfolio'
     right:
-      content: 'Klára Lázničková | Portfolio'
+      content: 'Klára Lázničková'
   verso:
     #columns: $footer_recto_columns
     left:
-      content: 'Portfolio | Klára Lázničková'
+      content: 'Portfolio'
+    right:
+      content: 'Klára Lázničková'
