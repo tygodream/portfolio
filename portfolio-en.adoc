@@ -6,36 +6,37 @@
 :toclevels: 2
 :figure-caption!:
 
+:extension: jpg
 
 [[klara-laznickova]]
 = Klára Lázničková: Portfolio
 
 == Curriculum vitae
 
-=== Studium
+=== Education
 
-* od 2015 Fakulta umění, OSU, ateliér Malba 1, Daniel Balabán
-** LS 2016/2017 stáž Fakulta výtvarných umění, VUT, ateliér Environment, Barbora Klímová
-** ZS 2016/2017 stáž Fakulta výtvarných umění, VUT, ateliér Malba 2, Luděk Rathouský
-* 2011-2015 Střední umělecko průmyslová škola a vyšší odborná umělecko průmyslová škola, Praha
+* since 2015 Faculty of Fine Arts, OSU, Studio of Painting 1, Daniel Balabán
+** SS 2016/2017 internship at Faculty of Fine Arts, BUT, Studio Environment, Barbora Klímová
+** WS 2016/2017 internship at Faculty of Fine Arts, BUT, Studio of Painting 2, Luděk Rathouský
+* 2011-2015 Secondary School of Applied Arts and Higher School of Applied Arts, Prague
 
-=== Výstavy
+=== Exhibitions
 * 2019
-** Staroboleslavská pouť - sv. Antonín (kolektivní)
+** Pilgrimage to Stará Boleslav - st. Anthony (collective)
 * 2018
-** výstava bakalářské práce Tygo Dream 
-(Pneuservis, VEGA zdravá výživa, Knihovna města Ostravy pobočka Daliborova, Maryčka - kavárna, Žalák, Plato, Armáda spásy, Pekařství Boček, FER@NET net kafé, Solná jeskyně Halos)
+** exhibition of bachelor thesis Tygo Dream 
+(Pneuservis, VEGA healthy food, Ostrava City Library branch office Daliborova, Maryčka - cafe, Žalák - pub, Plato - wc in gallery, Salvation Army, Boček - bakery, FER@NET net -  cafe, Salt cave Halos)
 * 2018
-** Comfort balcony, Důl Michal, Ostrava (kolektivní)
+** Comfort balcony, Michal Mine, Ostrava (collective)
 * 2017
-** Ateliér Environment - Všem, galerie Cyril, Prostějov (kolektivní)
+** Studio Environment - To All, Cyril gallery, Prostìjov (collective)
 * 2015
-** Záhada hlavolamu, kavárna Teplárna, Brno
-** Staroboleslavská pouť (kolektivní)
+** Mystery puzzle, Teplárna cafe, Brno
+** Pilgrimage to Stará Boleslav  (collective)
 * 2014
-** Staroboleslavská pouť (kolektivní)
+** Pilgrimage to Stará Boleslav  (collective)
 
-=== Kontakt
+=== Contact
 
 - https://laznickova-klara.tumblr.com
 - laznickova.kl@gmail.com
@@ -44,103 +45,108 @@
 <<<
 == Portfolio
 
-[[vizualni-basen]]
-=== Vizuální báseň
+[[visual-poem]]
+=== Visual Poem
 
-Semestrální práce v podobě tapety - vizuální básně se zabývá možností komunikace, přenosem informace či dojmu skrze vizuální formu. 
+This semestral work is made in the form of wallpaper. It's called Visual Poem. It deals with possibilities of communication - transmission of information or impression through visual way.
 
-Obrazový text jsem aplikovala po jednotlivých A4 na sloup, mající evokovat reklamní tapetovací válce.
-Tapetu jsem vnímala vzhledem k její opakující se formě a uspořádání v řádcích, podobně jako (lyrickou) báseň.
-Jejíž obsah je vnímatelný především intuitivně – formou asociace skrze obrazovou složku.
+I applied pictorial text on a column with A4 format papers. It was supposed to evoke advertising wallpapering roller.
+Repeating and in-line arrangement of the wallpaper looks for me similar to a (lyrical) poem.
+Its content is perceived primarily intuitively - in the form of association through the image component.
 
-Přemíra negativních podnětů dopadajcích na mysl (souvisejících například se stavem klimatické nouze, uspěchaností doby a obecně k neuctě ke světu a životu na něm) ve mně vyvolává pocit stresu, smutku a úzkosti.
-Moje mysl bránící se všem negativním podnětům, vytvaří obraný systém v podobě pozitvních obrazců - výjevů gličující moji mysl, ta se snaží uniknout do zóny bezpečí, převážně nostalgicky hledá klid a útěchu v dětských letech a ideálech – obdiv vůči jarním květinám, úcta ke stromům, zájem o rozmanitost exotických končin, výlety, drahokameny, motýli, slunce, přejetá žába...
-Báseň tak replikuje - ilustruje stav mé zanesené mysli odrážející v sobě tlak společnosti a stav světa.
-Tématem je obecně uchopení principu dětského nahlížení na svět aplikovaného - připomenutého letargickému světu dospělých. 
+Negative stimulus on the mind (related for example with climatic crisis or the rush of time...) makes me feel stressed, sad and anxious.
+But my mind wants to resist of negative stimulus.
+It create a defensive system in the form of positive images - they glitch itself.
+My mind tries to escape to the safe zone.
+This safe zone is found in nostalgia and childhood, especially in pure children's interests and ideals – like admiration of spring flowers or esteem for trees.
+The poem illustrates my clogged mind reflecting in it self the pressure of society and the state of the world.
+The topic is generally the principle of how children look at the world - with pure love and passion, which I want to remind in some way to adult lethargic world.
 
-.Návrhová skica, digitální tisk, A3, 2019.
+.Design sketch, digital print, A3, 2019.
 image::14-vizualni-basen/skica.jpg[,650]
-.Vizuální báseň - instalace, lepený digitální tisk A4, 2019.
+.Visual poem - instalation, glued digital print A4, 2019.
 image::14-vizualni-basen/sloup2.jpg[,650]
 
 
 <<<
-[[kaplicky-sv-antonin]]
-=== Pouť sv. Antonína
+[[pilgrimage]]
+=== Pilgrimage of Saint Anthony
 
-Patnáctá Staroboleslavská pouť na téma pokušení svatého Antonína - Ježíšovy ryby a Zázrak v Rimini.
+15th Pilgrimage to Stará Boleslav on topic of the Temptation of St. Anthony - Jesus' Fish and Miracle in Rimini
 
-.Akvárium sv.Antonína, akvarel na papíře, 2019.
+.St. Anthony's Aquarium, watercolor on paper, 2019.
 image::13-kaplicky-sv-antonin/20190427_185351.jpg[,650]
 
 
 <<<
-[[klauzury]]
-=== Instantní útulno
+[[instant-coziness]]
+=== Instant coziness
 
-Hledání a definování "instantního útulna" vytvářejícího mé vnější i vnitřní prostředí.
+Finding and defining "instant coziness" which creates my internal and external environment.
 
-.Papuče, olej na plátně, 2019.
-image::12-klauzury/papuče.png[,500]
-.Akvárium, olej na plátně, 2019.
+.Slippers, oil on canvas, 2019.
+image::12-klauzury/papuce.{extension}[,500]
+.Aquarium, oil on canvas, 2019.
 image::12-klauzury/akvarium.jpg[,500]
-.Misky pro Čuníka, olej na plátně, 2019.
+.Čuník’s Bowl, oil on canvas, 2019.
 image::12-klauzury/miskaprocunika.jpg[,500]
-.Palma, olej na plátně, 2019.
+.Palm, oil on canvas, 2019.
 image::12-klauzury/palma.jpg[,500]
-.Věci, olej na plátně, 2019.
+.Things, oil on canvas, 2019.
 image::12-klauzury/veci.jpg[,]
 
 
 <<<
 [[floatacni-tygri]]
-=== Floatační tygři
+=== Floatation Tigers
 
-Milý Ježíšku, přála bych si pod stromeček mobil s hadem, pastelky hlavně růžový, nafukovací hrad, kolo a tygra, nebo toho slona co umí lítat ušima.
-A ten tygr, aby byl hodnej, aby nám nešežral Žeryka,
-díky Klárka Lázničková.
+Dear baby Jesus, I wish under the tree a mobile phone with a snake, crayons mainly pink, inflatable castle, bike and tiger or the elephant, who can fly through the ears.
+And the tiger must be calm, in order they not want to eat our dog Žeryk,
+thanks Klárka Lázničková.                                                                
 
-Chtít tygra, není to tak trochu útěk z uspěchaného prekarizovaného světa dospělých zpět do klidu dětství?
-Tato serie obrazů je inspirovaná kauzou tygřího masoxu a chovu kočkovitých šelem soukromníky v České republice.
-V dané instalaci obrazů jde však především o malbu a její vnímání.
-Koncepce podporující uvolnění se ve výstavním prostředí, nabádá diváka strávit v expozici delší dobu, jež umožní plné soustředění se pouze na vizuální pole viděné před sebou.
-Obraz nemá být jen indexem daného námětu zhotoveným štětcem a barvou.
-Stejně jak na obrazech floatují barevné plochy a tahy štetcem, tak by měl divák klidně obraz vnímat jen v abstraktní rovině a nechat floatovat svoji mysl ve stavu bez tíže všední reality.
+I want tiger as a pet. Isn't it a escaping from hurried and precarized
+adult world to calm and sweet childhood? This cycle of painting is inspired
+by cause connected with tiger masox and breeding of exotic felines by private individuals in the Czech Republic
 
-.Floatační tygři, olej na plátně , 2018.
-image::11-floatacni-tygri/floa0-1.png[,650]
-.Instalace - Comfort balcony, 2019.
-image::11-floatacni-tygri/floa1-1.png[,650]
-.Instalace - Comfort balcony, 2019.
-image::11-floatacni-tygri/floa3.png[,650]
-.Instalace - Comfort balcony, 2019.
-image::11-floatacni-tygri/floa2.png[,650]
+V dané instalaci obrazù jde však pøedevším o malbu a její vnímání.
+Koncepce podporující uvolnìní se ve výstavním prostøedí, nabádá diváka strávit v expozici delší dobu, jež umožní plné soustøedìní se pouze na vizuální pole vidìné pøed sebou.
+Obraz nemá být jen indexem daného námìtu zhotoveným štìtcem a barvou.
+Stejnì jak na obrazech floatují barevné plochy a tahy štetcem, tak by mìl divák klidnì obraz vnímat jen v abstraktní rovinì a nechat floatovat svoji mysl ve stavu bez tíže všední reality.
+
+.Floatation Tigers, oil on canvas , 2018.
+image::11-floatacni-tygri/floa0.{extension}[,650]
+.Installation - Comfort balcony, 2019.
+image::11-floatacni-tygri/floa1.{extension}[,650]
+.Installation - Comfort balcony, 2019.
+image::11-floatacni-tygri/floa3.{extension}[,650]
+.Installation - Comfort balcony, 2019.
+image::11-floatacni-tygri/floa2.{extension}[,650]
 
 
 <<<
 === Tygo dream
 
-Ve své bakalářské práci Tygo dream jsem pracovala s pocitovou funkcí malby.
-Svými myšlenkami jsem se často ztotožnovala s teoriemi moderních malířů.
-Vytvořila jsem tři serie obrázů (Tygr, Dovolená, Bajka), rozvíjející tato témata.
-Celou práci jsem tvořila v lehce nadneseném vyznění.
-Obrazy a námět jsem postupně upravila vzhledem k zamýšlenému účelu, kterým byla prevence chmuru a strachu.
-Při tvorbě sem užívala klasických malířských metod, malby jsem následně instalovala do poloveřejných prostor, kde jsem je bez přílišných autorských ambicí nechala plnit jejich běžné, univerzálně kontemplativní, meditativní, estetizující, či až dekorativní poslání.
-Měla jsem potřebu zdůraznit prostou, bazální, ale podle mě zásadní, podobu existence malby jako všední lenošky pro duši každého člověka.
+Ve své bakaláøské práci Tygo dream jsem pracovala s pocitovou funkcí malby.
+Svými myšlenkami jsem se èasto ztotožnovala s teoriemi moderních malíøù.
+Vytvoøila jsem tøi serie obrázù (Tygr, Dovolená, Bajka), rozvíjející tato témata.
+Celou práci jsem tvoøila v lehce nadneseném vyznìní.
+Obrazy a námìt jsem postupnì upravila vzhledem k zamýšlenému úèelu, kterým byla prevence chmuru a strachu.
+Pøi tvorbì sem užívala klasických malíøských metod, malby jsem následnì instalovala do poloveøejných prostor, kde jsem je bez pøílišných autorských ambicí nechala plnit jejich bìžné, univerzálnì kontemplativní, meditativní, estetizující, èi až dekorativní poslání.
+Mìla jsem potøebu zdùraznit prostou, bazální, ale podle mì zásadní, podobu existence malby jako všední lenošky pro duši každého èlovìka.
 
-.Tygodream, instalace - FER@NET net kafé, 2018.
+.Tygodream, installation - FER@NET net Cafe, 2018.
 image::10-tygodream/bajka010.jpg[]
-.Tygodream, instalace - pekařství Boček, 2018.
-image::10-tygodream/klara004.JPG[]
-.Tygodream, instalace - pneuservis, 2018.
-image::10-tygodream/klara005.JPG[]
-.Tygodream, instalace - VEGA zdravá výživa, 2018.
-image::10-tygodream/klara016.JPG[]
-.Tygodream, instalace - kavárna Maryčka, 2018.
-image::10-tygodream/klara020.JPG[]
-.Tygodream, instalace - Plato, 2018.
-image::10-tygodream/klara019.JPG[]
-.Tygodream, instalace - Armáda spásy, 2018.
+.Tygodream, installation - Boček Bakery, 2018.
+image::10-tygodream/klara004.jpg[]
+.Tygodream, installation - tire service, 2018.
+image::10-tygodream/klara005.jpg[]
+.Tygodream, installation - VEGA healthy nutrition shop, 2018.
+image::10-tygodream/klara016.jpg[]
+.Tygodream, installation - Maryčka Cafe, 2018.
+image::10-tygodream/klara020.jpg[]
+.Tygodream, installation - Plato Gallery, 2018.
+image::10-tygodream/klara019.jpg[]
+.Tygodream, installation - Salvation Army, 2018.
 image::10-tygodream/bajka011.jpg[]
 
 
@@ -148,93 +154,97 @@ image::10-tygodream/bajka011.jpg[]
 [[tygo-dream-bajka]]
 ==== Bajka
 
-.Lev a krtek, olej na plátně, 2018.
+.Lion and mole, oil on canvas, 2018.
 image::9-tygodream-bajka/lev-a-krtek.jpg[,600]
-.Bajka, olej na plátně, 2018.
-image::9-tygodream-bajka/bajka-cmyk.png[,600]
-.Krtek, olej na plátně, 2018.
-image::9-tygodream-bajka/krtek-cmyk.png[,650]
-.Lev, olej na plátně, 2018.
-image::9-tygodream-bajka/kožka.png[,550]
-.Lev, olej na plátně, 2018.
+.Fable, oil on canvas, 2018.
+image::9-tygodream-bajka/bajka.{extension}[,600]
+.Mole, oil on canvas, 2018.
+image::9-tygodream-bajka/krtek.{extension}[,650]
+.Lion, oil on canvas, 2018.
+image::9-tygodream-bajka/predlozka.{extension}[,550]
+.Lion, oil on canvas, 2018.
 image::9-tygodream-bajka/bajka001.jpg[,550]
-.Lev, olej na plátně, 2018.
+.Lion, oil on canvas, 2018.
 image::9-tygodream-bajka/lev1.jpg[,650]
-.Lev, olej na plátně, 2018.
+.Lion, oil on canvas, 2018.
 image::9-tygodream-bajka/lev2.jpg[,500]
-.Vesmírný lev, olej na plátně, 2018.
+.Cosmic Lion, oil on canvas, 2018.
 image::9-tygodream-bajka/vesmirnylev.jpg[,500]
-.Krokodýl, olej na plátně, 2018.
+.Crocodile, oil on canvas, 2018.
 image::9-tygodream-bajka/bajka008.jpg[,500]
-.Kotě, olej na plátně, 2018.
+.Kitten, oil on canvas, 2018.
 image::9-tygodream-bajka/bajka009.jpg[,500]
 
 
 <<<
 [[tygo-dream-palma-more-slunce]]
-==== Dovolená: palma, moře, slunce
+==== Holiday: Palm, Sea, Sun
 
-.Plato, olej na plátně, 2018.
+.Plato, oil on canvas, 2018.
 image::8-tygodream-palma-more-slunce/platorovne002.jpg[]
-.Orion, olej na plátně, 2018.
-image::8-tygodream-palma-more-slunce/orion-cmyk.png[,570]
-.Jahodová, olej na plátně, 2018.
-image::8-tygodream-palma-more-slunce/jahodova-cmyk.png[,570]
-.Margot, olej na plátně, 2018.
-image::8-tygodream-palma-more-slunce/margot-cmyk.png[,570]
-.New Beetle, olej na plátně, 2018.
-image::8-tygodream-palma-more-slunce/new-beetle-cmyk.png[,570]
-.Lev, olej na plátně, 2018.
-image::8-tygodream-palma-more-slunce/lev-cmyk.png[,500]
-.Lusk, olej na plátně, 2018.
-image::8-tygodream-palma-more-slunce/cmyk-lusk.png[,500]
+.Orion, oil on canvas, 2018.
+image::8-tygodream-palma-more-slunce/orion.{extension}[,570]
+.Strawberry, oil on canvas, 2018.
+image::8-tygodream-palma-more-slunce/jahodova.{extension}[,570]
+.Margot, oil on canvas, 2018.
+image::8-tygodream-palma-more-slunce/margot.{extension}[,570]
+.New Beetle, oil on canvas, 2018.
+image::8-tygodream-palma-more-slunce/new-beetle.{extension}[,570]
+.Lion, oil on canvas, 2018.
+image::8-tygodream-palma-more-slunce/lev.{extension}[,500]
+.Husk, oil on canvas, 2018.
+image::8-tygodream-palma-more-slunce/lusk.{extension}[,500]
 
 
 <<<
 [[zvrchu-tygo-dream]]
-==== Zvrchu
+==== From the Top
 
-Situace/zatiší malovaná zvrchu, věci ztrácí svou hmotu, objekty jsou obsahově vyprázdněné, stavají se pouze abstraktní kompozicí.
+situation/still life painted from the top, things which losing their matter. Content of things are emptied and everything becomes just an abstract composition.
 
-.Předložka, olej na plátně, 2018.
+
+.Rug, oil on canvas, 2018.
 image::7-tygodream-zvrchu/tygr003.jpg[]
-.Tygr, olej na plátně, 2017.
-image::7-tygodream-zvrchu/tygr-cmyk.png[]
-.Koně, olej na plátně, 2017.
+.Tiger, oil on canvas, 2017.
+image::7-tygodream-zvrchu/tygr.{extension}[]
+.Horse, oil on canvas, 2017.
 image::7-tygodream-zvrchu/kone.jpg[,400]
-.Zátiší, olej na plátně, 2017.
-image::7-tygodream-zvrchu/zatisi-sv.png[,400]
-.Tygo dream, olej na plátně, 2017.
-image::7-tygodream-zvrchu/tygo-dream-cmyk.png[,470]
-.Křeslo, olej na plátně, 2017.
+.Still life, oil on canvas, 2017.
+image::7-tygodream-zvrchu/zatisi.{extension}[,400]
+.Tygo dream, oil on canvas, 2017.
+image::7-tygodream-zvrchu/tygo-dream.{extension}[,470]
+.Armchair, oil on canvas, 2017.
 image::7-tygodream-zvrchu/kreslo.jpg[,470]
 
 
 <<<
 [[tygri-tygo-dream]]
-==== Tygři
+==== Tigers
 
-Tygr jako popkulturní lightmotiv, lehce čitelný symbol pro diváka, zejména díky častému využívání v reklamě. 
+Tiger as a pop-cultural lightmotif,easily understandable symbol for viewer, because of frequent use in advertising
+ 
 
-.Tygr, olej na plátně, 2018.
-image::6-tygodream-tygri/tygr1-sv.png[,470]
-.Tygr, olej na plátně, 2018.
+.Tiger,  oil on canvas, 2018.
+image::6-tygodream-tygri/tygr1.{extension}[,470]
+.Tiger, oil on canvas, 2018.
 image::6-tygodream-tygri/tygr3.jpg[,470]
-.Tygr, olej na plátně, 2018.
+.Tiger, oil on canvas, 2018.
 image::6-tygodream-tygri/tygo25.jpg[,400]
-.Tygr, olej na plátně, 2018.
-image::6-tygodream-tygri/tygr2t.png[,400]
-.Tygr, olej na plátně, 2018.
-image::6-tygodream-tygri/tygr4vic.png[,400]
-.Tygonanas, olej na plátně, 2018.
-image::6-tygodream-tygri/tygonanassvet.png[,400]
+.Tiger, oil on canvas, 2018.
+image::6-tygodream-tygri/tygr2t.{extension}[,400]
+.Tiger, oil on canvas, 2018.
+image::6-tygodream-tygri/tygr4.{extension}[,400]
+.Tygonanas, oil on canvas, 2018.
+image::6-tygodream-tygri/tygonanas.{extension}[,400]
 
 
 <<<
 [[archivacni-basen]]
-=== Archivační báseň
+=== Archival Poem
 
-.Archivační báseň, tisk, 2017.
+
+.Archival Poem, print, 2017.
+napsat o co jde anglicky!!!
 image::5-archivacni-basen/letak.png[,500]
 image::5-archivacni-basen/arb.png[,500]
 image::5-archivacni-basen/arb2.png[,500]
@@ -242,88 +252,87 @@ image::5-archivacni-basen/arb2.png[,500]
 
 <<<
 [[obraz-a-kocka]]
-=== Obraz a kočka
+=== Painting and Cat
 
-.Obraz a kočka, text, 2016.
+.Painting and Cat, text, 2016.
 image::4-obraz-a-kocka/text.jpg[,650]
-.Obraz a kočka: instalace, pohled do instalace, 2016.
+.Painting and Cat: installation, view into the instalace, 2016.
 image::4-obraz-a-kocka/instalace.jpg[,500]
-.Obraz a kočka: infiltrace, pohled do instalace, 2016.
+.Painting and Cat: infiltration, view into the instalace, 2016.
 image::4-obraz-a-kocka/infiltrace1.jpg[,500]
-.Obraz a kočka: infiltrace, pohled do instalace, 2016.
+.Painting and Cat: infiltration, view into the instalace, 2016.
 image::4-obraz-a-kocka/infiltrace2.jpg[,500]
-.Obraz a kočka: škrabadla, pohled do instalace, 2016.
+.Painting and Cat: scratcher, view into the instalace, 2016.
 image::4-obraz-a-kocka/skrabadla.jpg[]
 
 
 <<<
 [[zvirata]]
-=== Zvířata
+=== Zvíøata
 
-Snažím se o vyprázdnění motivu a vnímání subjektu v abstraktní rovině.
-Jde mi o zachycení tělesné konstituce zvířete v různých situacích, pozicích nebo fázích pohybu kdy je vnímána její hmota jako určitý abstraktní tvar.
-Ten je dále uchopován, oprošťován od zbytečných šumů a využíván ve prospěch kompozice.
-U skupiny zvířat kromě jejich samotné konstituce, sleduji jejich pohyb v prostoru zahrady a snažím se zachytit jimi utvářené kompozice.
-Rámy jsou potažené alternativním materiálem (deky, ručníky), jehož struktura může připomínat povrch zvířat (srst, pěří), ale zároveň je vybrán kvůli své hrubosti, která výškou chlupu znesnadňuje malbu v detailu a tudíž dochází ke zjednodušení motivu až k abstraktní podobě.
+Snažím se o vyprázdnìní motivu a vnímání subjektu v abstraktní rovinì.
+Jde mi o zachycení tìlesné konstituce zvíøete v rùzných situacích, pozicích nebo fázích pohybu kdy je vnímána její hmota jako urèitý abstraktní tvar.
+Ten je dále uchopován, oproš�ován od zbyteèných šumù a využíván ve prospìch kompozice.
+U skupiny zvíøat kromì jejich samotné konstituce, sleduji jejich pohyb v prostoru zahrady a snažím se zachytit jimi utváøené kompozice.
+Rámy jsou potažené alternativním materiálem (deky, ruèníky), jehož struktura mùže pøipomínat povrch zvíøat (srst, pìøí), ale zároveò je vybrán kvùli své hrubosti, která výškou chlupu znesnadòuje malbu v detailu a tudíž dochází ke zjednodušení motivu až k abstraktní podobì.
 
-.Kočky, olej na plátně, 2016.
-image::3-zvirata/kocky7-cmyk.png[,600]
-.Kočky, olej na plátně, 2016.
+.Cats, oil on canvas, 2016.
+image::3-zvirata/kocky7.{extension}[,600]
+.Koèky, oil on canvas, 2016.
 image::3-zvirata/kocky4.jpg[,500]
-.Kočky, olej na plátně, 2016.
+.Koèky, oil on canvas, 2016.
 image::3-zvirata/kocky5.jpg[,500]
-.Kočky, olej na plátně, 2016.
-image::3-zvirata/kocky8-cmyk.png[,600]
-.Kočky, olej na plátně, 2016.
+.Koèky, oil on canvas, 2016.
+image::3-zvirata/kocky8.{extension}[,600]
+.Koèky, oil on canvas, 2016.
 image::3-zvirata/kocky9.jpg[,600]
-.Kuřata, olej na plátně, 2016.
+.Kuøata, oil on canvas, 2016.
 image::3-zvirata/kurata.jpg[,600]
-.Pes, olej na plátně, 2016.
+.Pes, oil on canvas, 2016.
 image::3-zvirata/pes.jpg[,600]
-.Slepice, olej na plátně, 2016.
+.Slepice, oil on canvas, 2016.
 image::3-zvirata/slepice.jpg[,600]
-
 
 <<<
 [[rodina]]
 === Rodina
 
-Důležité je hledání zajímavých momentů nebo i jen kompozic v mém bezprostředním okolí.
-Obrazy jsou oproštěné od přílišné a nepotřebné či nechtěné reality.
-Toto nepotřebné je vybíráno autoselektivně dle mého estetického cítění.
+Dùležité je hledání zajímavých momentù nebo i jen kompozic v mém bezprostøedním okolí.
+Obrazy jsou oproštìné od pøílišné a nepotøebné èi nechtìné reality.
+Toto nepotøebné je vybíráno autoselektivnì dle mého estetického cítìní.
 
-.Deathfolk, 120x120cm, olej na plátně, 2016.
-image::2-rodina/deathfolk-cmyk.png[]
-.Batůžek, 105x140cm, olej na plátně, 2016.
-image::2-rodina/batuzek-cmyk.png[,600]
-.Eskimáci, 110x110cm, olej na plátně, 2016.
-image::2-rodina/eskimaci.png[,600]
-.Anežka, 80x80cm, olej na plátně, 2016.
-image::2-rodina/anezka-cmyk.png[,450]
-.Bella, 80x80cm, olej na plátně, 2016.
-image::2-rodina/bella-orez.png[,450]
+.Deathfolk, 120x120cm, oil on canvas, 2016.
+image::2-rodina/deathfolk.{extension}[]
+.Small Rucksack, 105x140cm, oil on canvas, 2016.
+image::2-rodina/batuzek.{extension}[,600]
+.Eskimos, 110x110cm, oil on canvas, 2016.
+image::2-rodina/eskimaci.{extension}[,600]
+.Anežka, 80x80cm, oil on canvas, 2016.
+image::2-rodina/anezka.{extension}[,450]
+.Bella, 80x80cm, oil on canvas, 2016.
+image::2-rodina/bella.{extension}[,450]
 
 
 <<<
 [[biotop]]
 === Biotop
 
-Práce se týkala vztahu věcí k jejich majiteli v určitém prostředí, zajímá mě zkoumat,
-jestli je rozpoložení předmětů v místě kde se pohybujeme - žijeme nahodilé nebo uvědomělé, jestli věci okolo nás něco o někom/něčem(o jejich majiteli) vypovídájí.
-Nad věcmi přemýšlím jak nad florou/faunou, která indikuje své prostředí.
-Tento soubor maleb vnímám jako biotop (sociotop), kde si věci snažím představit jako indikátory, ukazující vlastnosti, povahové rysy, záliby, styl života obyvatelů daného místa.
-Vytvořené prostředí nemá být jedno reálné místo, obrazy představují určité segmenty různých míst která jsem považovala za klíčová pro dané osoby. 
-Přenosem myšlenky skrze mou malbu se však nejspíš tento biotop definující prarodiče stává do jisté míry spíše mým prostředím.
+Práce se týkala vztahu vìcí k jejich majiteli v urèitém prostøedí, zajímá mì zkoumat,
+jestli je rozpoložení pøedmìtù v místì kde se pohybujeme - žijeme nahodilé nebo uvìdomìlé, jestli vìci okolo nás nìco o nìkom/nìèem(o jejich majiteli) vypovídájí.
+Nad vìcmi pøemýšlím jak nad florou/faunou, která indikuje své prostøedí.
+Tento soubor maleb vnímám jako biotop (sociotop), kde si vìci snažím pøedstavit jako indikátory, ukazující vlastnosti, povahové rysy, záliby, styl života obyvatelù daného místa.
+Vytvoøené prostøedí nemá být jedno reálné místo, obrazy pøedstavují urèité segmenty rùzných míst která jsem považovala za klíèová pro dané osoby. 
+Pøenosem myšlenky skrze mou malbu se však nejspíš tento biotop definující prarodièe stává do jisté míry spíše mým prostøedím.
 
-.Biotop, rozměr variabilní, instalace, 2016.
+.Biotop, rozmìr variabilní, installation, 2016.
 image::1-biotop/biotop-instalace.jpg[]
-.Mandril, 35x40cm, olej na plátně, 2016.
+.Mandrill, 35x40cm, oil on canvas, 2016.
 image::1-biotop/mandril.jpg[,600]
-.Chata, 65x75cm, olej na plátně, 2016.
+.Cabin, 65x75cm, oil on canvas, 2016.
 image::1-biotop/chata1.jpg[,500]
-.Kočky, 130x120cm, olej na plátně, 2016.
+.Cats, 130x120cm, oil on canvas, 2016.
 image::1-biotop/kocky.jpg[,500]
-.Polička, 80x100cm, olej na plátně, 2016.
+.Shelp, 80x100cm, oil on canvas, 2016.
 image::1-biotop/policka1.jpg[,500]
-.Úprka, 70x70cm, olej na plátně, 2016.
+.Úprka, 70x70cm, oil on canvas, 2016.
 image::1-biotop/uprka.jpg[,500]
