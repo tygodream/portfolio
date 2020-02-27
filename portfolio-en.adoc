@@ -110,12 +110,14 @@ thanks Klárka Lázničková.
 
 I want tiger as a pet. Isn't it a escaping from hurried and precarized
 adult world to calm and sweet childhood? This cycle of painting is inspired
-by cause connected with tiger masox and breeding of exotic felines by private individuals in the Czech Republic
+by criminal case connected to tiger masox and breeding of exotic felines by private individuals in the Czech Republic.+
 
-V dané instalaci obrazù jde však pøedevším o malbu a její vnímání.
-Koncepce podporující uvolnìní se ve výstavním prostøedí, nabádá diváka strávit v expozici delší dobu, jež umožní plné soustøedìní se pouze na vizuální pole vidìné pøed sebou.
-Obraz nemá být jen indexem daného námìtu zhotoveným štìtcem a barvou.
-Stejnì jak na obrazech floatují barevné plochy a tahy štetcem, tak by mìl divák klidnì obraz vnímat jen v abstraktní rovinì a nechat floatovat svoji mysl ve stavu bez tíže všední reality.
+The installation works with the topic of perception of painting.
+Its main conception tries to support relaxing feeling of the exhibition space and lures the visitor to spend longer time in the space,
+which allows deeper concentration onto the visuality of paintings.
+
+The painting is not an index of the painted motive, but instead it carries relaxing feelings.
+The observer might let her mind float in the flow of visual thinking in the similar way as the objects on the paintings are floating.
 
 .Floatation Tigers, oil on canvas , 2018.
 image::11-floatacni-tygri/floa0.{extension}[,650]
@@ -226,7 +228,7 @@ image::7-tygodream-zvrchu/kreslo.{extension}[,470]
 Tiger as a pop-cultural lightmotive and easily understandable symbol for viewer, because of its frequent use in advertisiment.
  
 
-.Tiger,  oil on canvas, 2018.
+.Tiger, oil on canvas, 2018.
 image::6-tygodream-tygri/tygr1.{extension}[,470]
 .Tiger, oil on canvas, 2018.
 image::6-tygodream-tygri/tygr3.{extension}[,470]
@@ -268,9 +270,9 @@ image::5-archivacni-basen/arb2.{extension}[,500]
 
 <<<
 [[obraz-a-kocka]]
-=== Painting and Cat
+=== The Painting and the Cat
 
-I this project I made scrubbers for the cat. The project started so that I am want to paint without much more unnecessary details.
+In this project I made scrubbers for the cat. The project started so that I am want to paint without much more unnecessary details.
 I used for painting instead canvas alternative materials like old blankets and towels.
 Materials that have a high structure which does not allow painted in detail.
 These my painting - blankets stretched on blind frame - was used by my cats as scrubber.
@@ -280,50 +282,52 @@ So I made special scrubber in the form of a armchair which was made of these att
 
 .Painting and Cat, text, 2016.
 image::4-obraz-a-kocka/text.{extension}[,650]
-.Painting and Cat: installation, view into the instalace, 2016.
+.Painting and Cat: installation, view into installation, 2016.
 image::4-obraz-a-kocka/instalace.{extension}[,500]
-.Painting and Cat: infiltration, view into the instalace, 2016.
+.Painting and Cat: infiltration, view into installation, 2016.
 image::4-obraz-a-kocka/infiltrace1.{extension}[,500]
-.Painting and Cat: infiltration, view into the instalace, 2016.
+.Painting and Cat: infiltration, view into installation, 2016.
 image::4-obraz-a-kocka/infiltrace2.{extension}[,500]
-.Painting and Cat: scratcher, view into the instalace, 2016.
+.Painting and Cat: scratcher, view into installation, 2016.
 image::4-obraz-a-kocka/skrabadla.{extension}[]
 
 
 <<<
-[[zvirata]]
-=== Zvíøata
+[[animals]]
+=== Animals
 
-Snažím se o vyprázdnìní motivu a vnímání subjektu v abstraktní rovinì.
-Jde mi o zachycení tìlesné konstituce zvíøete v rùzných situacích, pozicích nebo fázích pohybu kdy je vnímána její hmota jako urèitý abstraktní tvar.
-Ten je dále uchopován, oproš�ován od zbyteèných šumù a využíván ve prospìch kompozice.
-U skupiny zvíøat kromì jejich samotné konstituce, sleduji jejich pohyb v prostoru zahrady a snažím se zachytit jimi utváøené kompozice.
-Rámy jsou potažené alternativním materiálem (deky, ruèníky), jehož struktura mùže pøipomínat povrch zvíøat (srst, pìøí), ale zároveò je vybrán kvùli své hrubosti, která výškou chlupu znesnadòuje malbu v detailu a tudíž dochází ke zjednodušení motivu až k abstraktní podobì.
+I try to empty the motive and only percieve the subject in abstract dimensions.
+I focus on physical constitution of animals in different situation, positions or phases of movement but I take its mass just as an abstract shape. 
+This shape is further simplified and cleaned from unimportant visual noises.
+I also used the natural compositions of animals in their raw form - just how they happened during the day or night.
+
+Frames are coated with alternative materials like towels or blankets which structure might resemble animal fur.
+Also its structure makes it harder to paint in detail, which pushes me as a painter into the need for much more simplified shapes.
 
 .Cats, oil on canvas, 2016.
 image::3-zvirata/kocky7.{extension}[,600]
-.Koèky, oil on canvas, 2016.
+.Cats, oil on canvas, 2016.
 image::3-zvirata/kocky4.{extension}[,500]
-.Koèky, oil on canvas, 2016.
+.Cats, oil on canvas, 2016.
 image::3-zvirata/kocky5.{extension}[,500]
-.Koèky, oil on canvas, 2016.
+.Cats, oil on canvas, 2016.
 image::3-zvirata/kocky8.{extension}[,600]
-.Koèky, oil on canvas, 2016.
+.Cats, oil on canvas, 2016.
 image::3-zvirata/kocky9.{extension}[,600]
-.Kuøata, oil on canvas, 2016.
+.Chickens, oil on canvas, 2016.
 image::3-zvirata/kurata.{extension}[,600]
-.Pes, oil on canvas, 2016.
+.Dog, oil on canvas, 2016.
 image::3-zvirata/pes.{extension}[,600]
-.Slepice, oil on canvas, 2016.
+.Hen, oil on canvas, 2016.
 image::3-zvirata/slepice.{extension}[,600]
 
 <<<
 [[rodina]]
-=== Rodina
+=== Family
 
-Dùležité je hledání zajímavých momentù nebo i jen kompozic v mém bezprostøedním okolí.
-Obrazy jsou oproštìné od pøílišné a nepotøebné èi nechtìné reality.
-Toto nepotøebné je vybíráno autoselektivnì dle mého estetického cítìní.
+This work is about searching for inspiring moments or compositions in my everyday life.
+The paintings are cleansed from unwanted aspects of reality - of visual noise of ugly things.
+This choice of what should be cleansed is based just on my visual preferences.
 
 .Deathfolk, 120x120cm, oil on canvas, 2016.
 image::2-rodina/deathfolk.{extension}[]
@@ -338,17 +342,16 @@ image::2-rodina/bella.{extension}[,450]
 
 
 <<<
-[[biotop]]
-=== Biotop
+[[biotope]]
+=== Biotope
 
-Práce se týkala vztahu vìcí k jejich majiteli v urèitém prostøedí, zajímá mì zkoumat,
-jestli je rozpoložení pøedmìtù v místì kde se pohybujeme - žijeme nahodilé nebo uvìdomìlé, jestli vìci okolo nás nìco o nìkom/nìèem(o jejich majiteli) vypovídájí.
-Nad vìcmi pøemýšlím jak nad florou/faunou, která indikuje své prostøedí.
-Tento soubor maleb vnímám jako biotop (sociotop), kde si vìci snažím pøedstavit jako indikátory, ukazující vlastnosti, povahové rysy, záliby, styl života obyvatelù daného místa.
-Vytvoøené prostøedí nemá být jedno reálné místo, obrazy pøedstavují urèité segmenty rùzných míst která jsem považovala za klíèová pro dané osoby. 
-Pøenosem myšlenky skrze mou malbu se však nejspíš tento biotop definující prarodièe stává do jisté míry spíše mým prostøedím.
+This work explores the bonds between things and their owner and also meaning of constelation of things in the space.
+Is it just random or does it have any deeper meaning? What does it tell about the owner?
+I try to understand these things as animals or plants.
+Using this concept I explore the specificity of the fauna a flora and then through
+reorganization of paintings in the space I create new specific bio envritonment - a biotope.
 
-.Biotop, rozmìr variabilní, installation, 2016.
+.Biotop, dimensions variable, installation, 2016.
 image::1-biotop/biotop-instalace.{extension}[]
 .Mandrill, 35x40cm, oil on canvas, 2016.
 image::1-biotop/mandril.{extension}[,600]
@@ -356,7 +359,7 @@ image::1-biotop/mandril.{extension}[,600]
 image::1-biotop/chata1.{extension}[,500]
 .Cats, 130x120cm, oil on canvas, 2016.
 image::1-biotop/kocky.{extension}[,500]
-.Shelp, 80x100cm, oil on canvas, 2016.
+.Shelf, 80x100cm, oil on canvas, 2016.
 image::1-biotop/policka1.{extension}[,500]
 .Úprka, 70x70cm, oil on canvas, 2016.
 image::1-biotop/uprka.{extension}[,500]
