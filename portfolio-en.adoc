@@ -15,13 +15,17 @@
 
 === Education
 
-* since 2015 Faculty of Fine Arts, OSU, Studio of Painting 1, Daniel Balabán
+* 2019-now: Master's study at Faculty of Fine Arts, BUT, Studio Environment, Barbora Klímová
+* 2018-now: Master's study at Faculty of Fine Arts, OSU, Studio of Painting 1, Daniel Balabán
+* 2015-2018: Bachelor's study at Faculty of Fine Arts, OSU, Studio of Painting 1, Daniel Balabán
 ** SS 2016/2017 internship at Faculty of Fine Arts, BUT, Studio Environment, Barbora Klímová
 ** WS 2016/2017 internship at Faculty of Fine Arts, BUT, Studio of Painting 2, Luděk Rathouský
-* 2011-2015 Secondary School of Applied Arts and Higher School of Applied Arts, Prague
+* 2011-2015: Secondary School of Applied Arts and Higher School of Applied Arts, Prague
 
 === Exhibitions
+
 * 2019
+** Party-Extinct-Repeat, 3-day long performance with Global Genocide Collective, Terén - CED, Brno
 ** Pilgrimage to Stará Boleslav - st. Anthony (collective)
 * 2018
 ** exhibition of bachelor thesis Tygo Dream 
@@ -126,13 +130,11 @@ image::11-floatacni-tygri/floa2.{extension}[,650]
 <<<
 === Tygo dream
 
-Ve své bakaláøské práci Tygo dream jsem pracovala s pocitovou funkcí malby.
-Svými myšlenkami jsem se èasto ztotožnovala s teoriemi moderních malíøù.
-Vytvoøila jsem tøi serie obrázù (Tygr, Dovolená, Bajka), rozvíjející tato témata.
-Celou práci jsem tvoøila v lehce nadneseném vyznìní.
-Obrazy a námìt jsem postupnì upravila vzhledem k zamýšlenému úèelu, kterým byla prevence chmuru a strachu.
-Pøi tvorbì sem užívala klasických malíøských metod, malby jsem následnì instalovala do poloveøejných prostor, kde jsem je bez pøílišných autorských ambicí nechala plnit jejich bìžné, univerzálnì kontemplativní, meditativní, estetizující, èi až dekorativní poslání.
-Mìla jsem potøebu zdùraznit prostou, bazální, ale podle mì zásadní, podobu existence malby jako všední lenošky pro duši každého èlovìka.
+My bachelor thesis called Tygo Dream is focus of sensitive and suggestiv properties of painting.
+In many cases, I identified myself with thought and theories of modern painters for example : The image is a chaise lounge for the soul.
+I created cyklus of painting (Tiger, Palm, Fable) deals with this topic. The whole work was made in a slightly exaggerated tone. One of the aims was to prevent the fear that was evident in the post-election Ostrava. I used the classic method of oil painting and installed created paintings  in semi-public spaces in Ostrava. Without much ambition, I let them perform their common (contemplative, meditative, aesthetic and decorativ)  function.
+I had need to stress simple and basal, but I think essential properties of painting.
+
 
 .Tygodream, installation - FER@NET net Cafe, 2018.
 image::10-tygodream/bajka010.jpg[]
@@ -221,7 +223,7 @@ image::7-tygodream-zvrchu/kreslo.jpg[,470]
 [[tygri-tygo-dream]]
 ==== Tigers
 
-Tiger as a pop-cultural lightmotif,easily understandable symbol for viewer, because of frequent use in advertising
+Tiger as a pop-cultural lightmotive and easily understandable symbol for viewer, because of its frequent use in advertisiment.
  
 
 .Tiger,  oil on canvas, 2018.
@@ -242,9 +244,23 @@ image::6-tygodream-tygri/tygonanas.{extension}[,400]
 [[archivacni-basen]]
 === Archival Poem
 
+This semestral work deals with archive of family records in electronic form.
+My Archival poem include collected materials like forgotten videos which content are three years of growing and progress of my little sister in her newborn life.
+I find this videos in our electronic mess -  in our cards and disks.
+All of these videos have topic of my sister and their progress and all are recorded in our living room.
+This is equivalent to the fact  that each such videos include sounds of TV in their background.
+In my poem I rewrite contains of this videos.
+In right side you can see column where it is written what my sister did.
+With distance of years it look like that she does nothing.
+For example she try to caress a dog or eat croissant or brush her teeth.
+In the left side is exact transcribe of TV sounds.
+Specifically I rewrited heared parts of the interview comes from TV shows like crime detective stories, documents about nature etc. 
+In the end of this poem are citation which contains names of programs, tv station and time and year of playing.
+
+Poem keeps, shown us and reveals little bit sensitive and unwanted information about our free time with mass media much more than about newborn life.
+
 
 .Archival Poem, print, 2017.
-napsat o co jde anglicky!!!
 image::5-archivacni-basen/letak.png[,500]
 image::5-archivacni-basen/arb.png[,500]
 image::5-archivacni-basen/arb2.png[,500]
@@ -253,6 +269,14 @@ image::5-archivacni-basen/arb2.png[,500]
 <<<
 [[obraz-a-kocka]]
 === Painting and Cat
+
+I this project I made scrubbers for the cat. The project started so that I am want to paint without much more unnecessary details.
+I used for painting instead canvas alternative materials like old blankets and towels.
+Materials that have a high structure which does not allow painted in detail.
+These my painting - blankets stretched on blind frame - was used by my cats as scrubber.
+So then I got idea to make ideal scrubber for our environment.
+Because I hate classic cat equipment that is ugly and divides the flat into cats environment and myspace.
+So I made special scrubber in the form of a armchair which was made of these attractive materials for cats as paintings - blankets and blind frame and I visually infiltrate them into myspace.
 
 .Painting and Cat, text, 2016.
 image::4-obraz-a-kocka/text.jpg[,650]
