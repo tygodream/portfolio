@@ -49,6 +49,24 @@
 <<<
 == Portfolio
 
+[[diykobraz]]
+=== DIYkobraz
+
+This project is a zin called DIYkobraz.
+Its contents are old anecdotas and my drawings with which I connect them.
+The old jokes I collected primarily from czechoslovakian humorous and satirical magazine called Dikobraz (porcupine) which was focus on cartoon jokes and anecdotes of many themes - mainly covertly political.
+I collected anecdote based on ecologic and rather more civilization theme.
+These anecdotes are mostly from 60s to 80s.
+
+In this project I want to show to my generation the ecological language that comes from generations of our parents and grandparents and also try to update or disrupt these old jokes a little with my drawings.
+
+
+.DIYkobraz, detail of page, digital print, 2020.
+image::15-diykobraz/pf.{extension}[,450]
+.DIYkobraz, detail of page, digital print, 2020.
+image::15-diykobraz/autak.{extension}[,450]
+
+<<<
 [[visual-poem]]
 === Visual Poem
 
@@ -347,8 +365,8 @@ image::2-rodina/bella.{extension}[,450]
 
 This work explores the bonds between things and their owner and also meaning of constelation of things in the space.
 Is it just random or does it have any deeper meaning? What does it tell about the owner?
-I try to understand these things as animals or plants.
-Using this concept I explore the specificity of the fauna a flora and then through
+In this work I try to understand the things as animals or plants.
+Using this concept I explore the specificity of the fauna and flora and then through
 reorganization of paintings in the space I create new specific bio envritonment - a biotope.
 
 .Biotop, dimensions variable, installation, 2016.
