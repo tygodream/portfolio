@@ -67,9 +67,9 @@ The poem illustrates my clogged mind reflecting in it self the pressure of socie
 The topic is generally the principle of how children look at the world - with pure love and passion, which I want to remind in some way to adult lethargic world.
 
 .Design sketch, digital print, A3, 2019.
-image::14-vizualni-basen/skica.jpg[,650]
+image::14-vizualni-basen/skica.{extension}[,650]
 .Visual poem - instalation, glued digital print A4, 2019.
-image::14-vizualni-basen/sloup2.jpg[,650]
+image::14-vizualni-basen/sloup2.{extension}[,650]
 
 
 <<<
@@ -79,7 +79,7 @@ image::14-vizualni-basen/sloup2.jpg[,650]
 15th Pilgrimage to Stará Boleslav on topic of the Temptation of St. Anthony - Jesus' Fish and Miracle in Rimini
 
 .St. Anthony's Aquarium, watercolor on paper, 2019.
-image::13-kaplicky-sv-antonin/20190427_185351.jpg[,650]
+image::13-kaplicky-sv-antonin/20190427_185351.{extension}[,650]
 
 
 <<<
@@ -91,13 +91,13 @@ Finding and defining "instant coziness" which creates my internal and external e
 .Slippers, oil on canvas, 2019.
 image::12-klauzury/papuce.{extension}[,500]
 .Aquarium, oil on canvas, 2019.
-image::12-klauzury/akvarium.jpg[,500]
+image::12-klauzury/akvarium.{extension}[,500]
 .Čuník’s Bowl, oil on canvas, 2019.
-image::12-klauzury/miskaprocunika.jpg[,500]
+image::12-klauzury/miskaprocunika.{extension}[,500]
 .Palm, oil on canvas, 2019.
-image::12-klauzury/palma.jpg[,500]
+image::12-klauzury/palma.{extension}[,500]
 .Things, oil on canvas, 2019.
-image::12-klauzury/veci.jpg[,]
+image::12-klauzury/veci.{extension}[,]
 
 
 <<<
@@ -137,19 +137,19 @@ I had need to stress simple and basal, but I think essential properties of paint
 
 
 .Tygodream, installation - FER@NET net Cafe, 2018.
-image::10-tygodream/bajka010.jpg[]
+image::10-tygodream/bajka010.{extension}[]
 .Tygodream, installation - Boček Bakery, 2018.
-image::10-tygodream/klara004.jpg[]
+image::10-tygodream/klara004.{extension}[]
 .Tygodream, installation - tire service, 2018.
-image::10-tygodream/klara005.jpg[]
+image::10-tygodream/klara005.{extension}[]
 .Tygodream, installation - VEGA healthy nutrition shop, 2018.
-image::10-tygodream/klara016.jpg[]
+image::10-tygodream/klara016.{extension}[]
 .Tygodream, installation - Maryčka Cafe, 2018.
-image::10-tygodream/klara020.jpg[]
+image::10-tygodream/klara020.{extension}[]
 .Tygodream, installation - Plato Gallery, 2018.
-image::10-tygodream/klara019.jpg[]
+image::10-tygodream/klara019.{extension}[]
 .Tygodream, installation - Salvation Army, 2018.
-image::10-tygodream/bajka011.jpg[]
+image::10-tygodream/bajka011.{extension}[]
 
 
 <<<
@@ -157,7 +157,7 @@ image::10-tygodream/bajka011.jpg[]
 ==== Bajka
 
 .Lion and mole, oil on canvas, 2018.
-image::9-tygodream-bajka/lev-a-krtek.jpg[,600]
+image::9-tygodream-bajka/lev-a-krtek.{extension}[,600]
 .Fable, oil on canvas, 2018.
 image::9-tygodream-bajka/bajka.{extension}[,600]
 .Mole, oil on canvas, 2018.
@@ -165,17 +165,17 @@ image::9-tygodream-bajka/krtek.{extension}[,650]
 .Lion, oil on canvas, 2018.
 image::9-tygodream-bajka/predlozka.{extension}[,550]
 .Lion, oil on canvas, 2018.
-image::9-tygodream-bajka/bajka001.jpg[,550]
+image::9-tygodream-bajka/bajka001.{extension}[,550]
 .Lion, oil on canvas, 2018.
-image::9-tygodream-bajka/lev1.jpg[,650]
+image::9-tygodream-bajka/lev1.{extension}[,650]
 .Lion, oil on canvas, 2018.
-image::9-tygodream-bajka/lev2.jpg[,500]
+image::9-tygodream-bajka/lev2.{extension}[,500]
 .Cosmic Lion, oil on canvas, 2018.
-image::9-tygodream-bajka/vesmirnylev.jpg[,500]
+image::9-tygodream-bajka/vesmirnylev.{extension}[,500]
 .Crocodile, oil on canvas, 2018.
-image::9-tygodream-bajka/bajka008.jpg[,500]
+image::9-tygodream-bajka/bajka008.{extension}[,500]
 .Kitten, oil on canvas, 2018.
-image::9-tygodream-bajka/bajka009.jpg[,500]
+image::9-tygodream-bajka/bajka009.{extension}[,500]
 
 
 <<<
@@ -183,7 +183,7 @@ image::9-tygodream-bajka/bajka009.jpg[,500]
 ==== Holiday: Palm, Sea, Sun
 
 .Plato, oil on canvas, 2018.
-image::8-tygodream-palma-more-slunce/platorovne002.jpg[]
+image::8-tygodream-palma-more-slunce/platorovne002.{extension}[]
 .Orion, oil on canvas, 2018.
 image::8-tygodream-palma-more-slunce/orion.{extension}[,570]
 .Strawberry, oil on canvas, 2018.
@@ -206,17 +206,17 @@ situation/still life painted from the top, things which losing their matter. Con
 
 
 .Rug, oil on canvas, 2018.
-image::7-tygodream-zvrchu/tygr003.jpg[]
+image::7-tygodream-zvrchu/tygr003.{extension}[]
 .Tiger, oil on canvas, 2017.
 image::7-tygodream-zvrchu/tygr.{extension}[]
 .Horse, oil on canvas, 2017.
-image::7-tygodream-zvrchu/kone.jpg[,400]
+image::7-tygodream-zvrchu/kone.{extension}[,400]
 .Still life, oil on canvas, 2017.
 image::7-tygodream-zvrchu/zatisi.{extension}[,400]
 .Tygo dream, oil on canvas, 2017.
 image::7-tygodream-zvrchu/tygo-dream.{extension}[,470]
 .Armchair, oil on canvas, 2017.
-image::7-tygodream-zvrchu/kreslo.jpg[,470]
+image::7-tygodream-zvrchu/kreslo.{extension}[,470]
 
 
 <<<
@@ -229,9 +229,9 @@ Tiger as a pop-cultural lightmotive and easily understandable symbol for viewer,
 .Tiger,  oil on canvas, 2018.
 image::6-tygodream-tygri/tygr1.{extension}[,470]
 .Tiger, oil on canvas, 2018.
-image::6-tygodream-tygri/tygr3.jpg[,470]
+image::6-tygodream-tygri/tygr3.{extension}[,470]
 .Tiger, oil on canvas, 2018.
-image::6-tygodream-tygri/tygo25.jpg[,400]
+image::6-tygodream-tygri/tygo25.{extension}[,400]
 .Tiger, oil on canvas, 2018.
 image::6-tygodream-tygri/tygr2t.{extension}[,400]
 .Tiger, oil on canvas, 2018.
@@ -261,9 +261,9 @@ Poem keeps, shown us and reveals little bit sensitive and unwanted information a
 
 
 .Archival Poem, print, 2017.
-image::5-archivacni-basen/letak.png[,500]
-image::5-archivacni-basen/arb.png[,500]
-image::5-archivacni-basen/arb2.png[,500]
+image::5-archivacni-basen/letak.{extension}[,500]
+image::5-archivacni-basen/arb.{extension}[,500]
+image::5-archivacni-basen/arb2.{extension}[,500]
 
 
 <<<
@@ -279,15 +279,15 @@ Because I hate classic cat equipment that is ugly and divides the flat into cats
 So I made special scrubber in the form of a armchair which was made of these attractive materials for cats as paintings - blankets and blind frame and I visually infiltrate them into myspace.
 
 .Painting and Cat, text, 2016.
-image::4-obraz-a-kocka/text.jpg[,650]
+image::4-obraz-a-kocka/text.{extension}[,650]
 .Painting and Cat: installation, view into the instalace, 2016.
-image::4-obraz-a-kocka/instalace.jpg[,500]
+image::4-obraz-a-kocka/instalace.{extension}[,500]
 .Painting and Cat: infiltration, view into the instalace, 2016.
-image::4-obraz-a-kocka/infiltrace1.jpg[,500]
+image::4-obraz-a-kocka/infiltrace1.{extension}[,500]
 .Painting and Cat: infiltration, view into the instalace, 2016.
-image::4-obraz-a-kocka/infiltrace2.jpg[,500]
+image::4-obraz-a-kocka/infiltrace2.{extension}[,500]
 .Painting and Cat: scratcher, view into the instalace, 2016.
-image::4-obraz-a-kocka/skrabadla.jpg[]
+image::4-obraz-a-kocka/skrabadla.{extension}[]
 
 
 <<<
@@ -303,19 +303,19 @@ Rámy jsou potažené alternativním materiálem (deky, ruèníky), jehož struk
 .Cats, oil on canvas, 2016.
 image::3-zvirata/kocky7.{extension}[,600]
 .Koèky, oil on canvas, 2016.
-image::3-zvirata/kocky4.jpg[,500]
+image::3-zvirata/kocky4.{extension}[,500]
 .Koèky, oil on canvas, 2016.
-image::3-zvirata/kocky5.jpg[,500]
+image::3-zvirata/kocky5.{extension}[,500]
 .Koèky, oil on canvas, 2016.
 image::3-zvirata/kocky8.{extension}[,600]
 .Koèky, oil on canvas, 2016.
-image::3-zvirata/kocky9.jpg[,600]
+image::3-zvirata/kocky9.{extension}[,600]
 .Kuøata, oil on canvas, 2016.
-image::3-zvirata/kurata.jpg[,600]
+image::3-zvirata/kurata.{extension}[,600]
 .Pes, oil on canvas, 2016.
-image::3-zvirata/pes.jpg[,600]
+image::3-zvirata/pes.{extension}[,600]
 .Slepice, oil on canvas, 2016.
-image::3-zvirata/slepice.jpg[,600]
+image::3-zvirata/slepice.{extension}[,600]
 
 <<<
 [[rodina]]
@@ -349,14 +349,14 @@ Vytvoøené prostøedí nemá být jedno reálné místo, obrazy pøedstavují u
 Pøenosem myšlenky skrze mou malbu se však nejspíš tento biotop definující prarodièe stává do jisté míry spíše mým prostøedím.
 
 .Biotop, rozmìr variabilní, installation, 2016.
-image::1-biotop/biotop-instalace.jpg[]
+image::1-biotop/biotop-instalace.{extension}[]
 .Mandrill, 35x40cm, oil on canvas, 2016.
-image::1-biotop/mandril.jpg[,600]
+image::1-biotop/mandril.{extension}[,600]
 .Cabin, 65x75cm, oil on canvas, 2016.
-image::1-biotop/chata1.jpg[,500]
+image::1-biotop/chata1.{extension}[,500]
 .Cats, 130x120cm, oil on canvas, 2016.
-image::1-biotop/kocky.jpg[,500]
+image::1-biotop/kocky.{extension}[,500]
 .Shelp, 80x100cm, oil on canvas, 2016.
-image::1-biotop/policka1.jpg[,500]
+image::1-biotop/policka1.{extension}[,500]
 .Úprka, 70x70cm, oil on canvas, 2016.
-image::1-biotop/uprka.jpg[,500]
+image::1-biotop/uprka.{extension}[,500]
