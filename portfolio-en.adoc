@@ -11,52 +11,15 @@
 [[klara-laznickova]]
 = Klára Lázničková: Portfolio
 
-== Curriculum vitae
-
-=== Education
-
-* 2019-now: Master's study at Faculty of Fine Arts, BUT, Studio Environment, Barbora Klímová
-* 2018-now: Master's study at Faculty of Fine Arts, OSU, Studio of Painting 1, Daniel Balabán
-* 2015-2018: Bachelor's study at Faculty of Fine Arts, OSU, Studio of Painting 1, Daniel Balabán
-** SS 2016/2017 internship at Faculty of Fine Arts, BUT, Studio Environment, Barbora Klímová
-** WS 2016/2017 internship at Faculty of Fine Arts, BUT, Studio of Painting 2, Luděk Rathouský
-* 2011-2015: Secondary School of Applied Arts and Higher School of Applied Arts, Prague
-
-=== Exhibitions
-
-* 2019
-** Party-Extinct-Repeat, 3-day long performance with Global Genocide Collective, Terén - CED, Brno
-** Pilgrimage to Stará Boleslav - st. Anthony (collective)
-* 2018
-** exhibition of bachelor thesis Tygo Dream 
-(Pneuservis, VEGA healthy food, Ostrava City Library branch office Daliborova, Maryčka - cafe, Žalák - pub, Plato - wc in gallery, Salvation Army, Boček - bakery, FER@NET net -  cafe, Salt cave Halos)
-* 2018
-** Comfort balcony, Michal Mine, Ostrava (collective)
-* 2017
-** Studio Environment - To All, Cyril gallery, Prostìjov (collective)
-* 2015
-** Mystery puzzle, Teplárna cafe, Brno
-** Pilgrimage to Stará Boleslav  (collective)
-* 2014
-** Pilgrimage to Stará Boleslav  (collective)
-
-=== Contact
-
-- https://laznickova-klara.tumblr.com
-- laznickova.kl@gmail.com
-
-
-<<<
 == Portfolio
 
 [[diykobraz]]
 === DIYkobraz
 
 This project is a zin called DIYkobraz.
-Its contents are old anecdotas and my drawings with which I connect them.
-The old jokes I collected primarily from czechoslovakian humorous and satirical magazine called Dikobraz (porcupine) which was focus on cartoon jokes and anecdotes of many themes - mainly covertly political.
-I collected anecdote based on ecologic and rather more civilization theme.
-These anecdotes are mostly from 60s to 80s.
+It consists of many old anecdotes which are updated through my interventional drawing.
+The old jokes I have collected are primarily from czechoslovakian humorous and satirical magazine called Dikobraz (porcupine) which was focused on cartoon jokes and anecdotes of many themes - mainly covertly political.
+I have collected anecdotes based on ecological and civilizational themes from 60s to 80s.
 
 In this project I want to show to my generation the ecological language that comes from generations of our parents and grandparents and also try to update or disrupt these old jokes a little with my drawings.
 
@@ -70,9 +33,11 @@ image::15-diykobraz/autak.{extension}[,450]
 [[visual-poem]]
 === Visual Poem
 
-This semestral work is made in the form of wallpaper. It's called Visual Poem. It deals with possibilities of communication - transmission of information or impression through visual way.
+This semestral work was made in the form of wallpaper.
+It's called Visual Poem.
+It deals with possibilities of communication - transmission of information or impression through visual way.
 
-I applied pictorial text on a column with A4 format papers. It was supposed to evoke advertising wallpapering roller.
+I applied pictorial text on a column with A4 format papers. It was supposed to evoke advertisiment on wallpapering rollers.
 Repeating and in-line arrangement of the wallpaper looks for me similar to a (lyrical) poem.
 Its content is perceived primarily intuitively - in the form of association through the image component.
 
@@ -94,7 +59,7 @@ image::14-vizualni-basen/sloup2.{extension}[,650]
 [[pilgrimage]]
 === Pilgrimage of Saint Anthony
 
-15th Pilgrimage to Stará Boleslav on topic of the Temptation of St. Anthony - Jesus' Fish and Miracle in Rimini
+My addition to 15th Pilgrimage to Stará Boleslav on topic of the Temptation of St. Anthony - Jesus' Fish and Miracle in Rimini.
 
 .St. Anthony's Aquarium, watercolor on paper, 2019.
 image::13-kaplicky-sv-antonin/20190427_185351.{extension}[,650]
@@ -122,20 +87,19 @@ image::12-klauzury/veci.{extension}[,]
 [[floatacni-tygri]]
 === Floatation Tigers
 
-Dear baby Jesus, I wish under the tree a mobile phone with a snake, crayons mainly pink, inflatable castle, bike and tiger or the elephant, who can fly through the ears.
-And the tiger must be calm, in order they not want to eat our dog Žeryk,
+Dear baby Jesus, I wish under the tree a mobile phone with a snake, crayons mainly pink, inflatable castle, bike and tiger or the elephant, that can fly with its ears.
+And the tiger must be calm, in order to not eat our dog Žeryk,
 thanks Klárka Lázničková.                                                                
 
-I want tiger as a pet. Isn't it a escaping from hurried and precarized
-adult world to calm and sweet childhood? This cycle of painting is inspired
-by criminal case connected to tiger masox and breeding of exotic felines by private individuals in the Czech Republic.+
+I want tiger as a pet. Isn't this wish just an attempt to run away from our hurried and precarized adult world to calm and sweet childhood?
+This cycle of painting is inspired by criminal case connected to tiger masox and breeding of exotic felines by private individuals in the Czech Republic.
 
 The installation works with the topic of perception of painting.
 Its main conception tries to support relaxing feeling of the exhibition space and lures the visitor to spend longer time in the space,
 which allows deeper concentration onto the visuality of paintings.
 
 The painting is not an index of the painted motive, but instead it carries relaxing feelings.
-The observer might let her mind float in the flow of visual thinking in the similar way as the objects on the paintings are floating.
+The observer might let her mind float in the flow of visual thinking in the similar way as the objects are floating on the paintings.
 
 .Floatation Tigers, oil on canvas , 2018.
 image::11-floatacni-tygri/floa0.{extension}[,650]
@@ -150,10 +114,13 @@ image::11-floatacni-tygri/floa2.{extension}[,650]
 <<<
 === Tygo dream
 
-My bachelor thesis called Tygo Dream is focus of sensitive and suggestiv properties of painting.
-In many cases, I identified myself with thought and theories of modern painters for example : The image is a chaise lounge for the soul.
-I created cyklus of painting (Tiger, Palm, Fable) deals with this topic. The whole work was made in a slightly exaggerated tone. One of the aims was to prevent the fear that was evident in the post-election Ostrava. I used the classic method of oil painting and installed created paintings  in semi-public spaces in Ostrava. Without much ambition, I let them perform their common (contemplative, meditative, aesthetic and decorativ)  function.
-I had need to stress simple and basal, but I think essential properties of painting.
+My bachelor thesis called Tygo Dream is focused of sensitive and suggestive properties of painting.
+In many cases, I identified myself with thought and theories of modern painters for example: The image is a chaise lounge for the soul.
+I have created series of paintings (Tiger, Palm, Fable) that deals with this topic.
+The whole work was made in a slightly exaggerated tone.
+One of the main aims was to prevent the fear that was evident in the post-election Ostrava.
+I used the classic method of oil painting and installed created paintings in semi-public spaces in Ostrava.
+Without much ambition, I let them to perform their common (contemplative, meditative, aesthetical and decorative) functions.
 
 
 .Tygodream, installation - FER@NET net Cafe, 2018.
@@ -222,7 +189,8 @@ image::8-tygodream-palma-more-slunce/lusk.{extension}[,500]
 [[zvrchu-tygo-dream]]
 ==== From the Top
 
-situation/still life painted from the top, things which losing their matter. Content of things are emptied and everything becomes just an abstract composition.
+Still lifes and situations painted from the top, things which are losing their matter.
+Contents of things are emptied and everything becomes just an abstract composition.
 
 
 .Rug, oil on canvas, 2018.
@@ -243,7 +211,7 @@ image::7-tygodream-zvrchu/kreslo.{extension}[,470]
 [[tygri-tygo-dream]]
 ==== Tigers
 
-Tiger as a pop-cultural lightmotive and easily understandable symbol for viewer, because of its frequent use in advertisiment.
+Study of tiger as a pop-cultural lightmotive and easily understandable symbol for viewer, because of its frequent use in advertisiment.
  
 
 .Tiger, oil on canvas, 2018.
@@ -265,19 +233,20 @@ image::6-tygodream-tygri/tygonanas.{extension}[,400]
 === Archival Poem
 
 This semestral work deals with archive of family records in electronic form.
-My Archival poem include collected materials like forgotten videos which content are three years of growing and progress of my little sister in her newborn life.
-I find this videos in our electronic mess -  in our cards and disks.
+My Archival poem includes collected materials like forgotten videos which documents first three years of life of my little sister.
+I have found this videos in our electronic mess - in our cards and disks.
 All of these videos have topic of my sister and their progress and all are recorded in our living room.
-This is equivalent to the fact  that each such videos include sounds of TV in their background.
-In my poem I rewrite contains of this videos.
-In right side you can see column where it is written what my sister did.
-With distance of years it look like that she does nothing.
-For example she try to caress a dog or eat croissant or brush her teeth.
-In the left side is exact transcribe of TV sounds.
-Specifically I rewrited heared parts of the interview comes from TV shows like crime detective stories, documents about nature etc. 
-In the end of this poem are citation which contains names of programs, tv station and time and year of playing.
+This is equivalent to the fact  hat each such videos include sounds of TV in their background.
+In my poem I rewrite contains of these videos.
 
-Poem keeps, shown us and reveals little bit sensitive and unwanted information about our free time with mass media much more than about newborn life.
+In right side you can see column where it is written what my sister did.
+With distance of years it look like that she did nothing.
+For example she tries to catch a dog or eat croissant or brush her teeth.
+In the left side is exact transcribe of TV sounds.
+Specifically I rewrote hearable parts of the dialogues that came from TV shows like crime detective stories, documents about nature etc. 
+In the end of this poem are quotations which contains names of programs, TV stations and time and year of its playing.
+
+Poem keeps, show us and reveals little bit sensitive and unwanted information about our free time with mass media much more than about newborn life.
 
 
 .Archival Poem, print, 2017.
@@ -290,11 +259,12 @@ image::5-archivacni-basen/arb2.{extension}[,500]
 [[obraz-a-kocka]]
 === The Painting and the Cat
 
-In this project I made scrubbers for the cat. The project started so that I am want to paint without much more unnecessary details.
-I used for painting instead canvas alternative materials like old blankets and towels.
-Materials that have a high structure which does not allow painted in detail.
-These my painting - blankets stretched on blind frame - was used by my cats as scrubber.
-So then I got idea to make ideal scrubber for our environment.
+In this project I made scrubbers for cats.
+The project started with my wish to paint without much more unnecessary details.
+I have used for painting instead canvas alternative materials like old blankets and towels.
+Materials that have a high structure which does not allow any painting in detail.
+These paintings - blankets stretched on blind frame - were used by my cats as a scrubbers.
+
 Because I hate classic cat equipment that is ugly and divides the flat into cats environment and myspace.
 So I made special scrubber in the form of a armchair which was made of these attractive materials for cats as paintings - blankets and blind frame and I visually infiltrate them into myspace.
 
@@ -314,13 +284,13 @@ image::4-obraz-a-kocka/skrabadla.{extension}[]
 [[animals]]
 === Animals
 
-I try to empty the motive and only percieve the subject in abstract dimensions.
-I focus on physical constitution of animals in different situation, positions or phases of movement but I take its mass just as an abstract shape. 
-This shape is further simplified and cleaned from unimportant visual noises.
-I also used the natural compositions of animals in their raw form - just how they happened during the day or night.
+I in this work I try to empty the motive and only percieve the subject in abstract dimensions.
+I focus on physical constitution of animals in different situations, positions or phases of movement but I take its mass just as an abstract shape. 
+This shape is further simplified and cleansed from unimportant visual noises.
+I also used the natural compositions of animals in their raw form - just how it happened during the day or night.
 
 Frames are coated with alternative materials like towels or blankets which structure might resemble animal fur.
-Also its structure makes it harder to paint in detail, which pushes me as a painter into the need for much more simplified shapes.
+Also it makes it harder to paint in detail, which pushes me as a painter into the need for much more simplified shapes.
 
 .Cats, oil on canvas, 2016.
 image::3-zvirata/kocky7.{extension}[,600]
